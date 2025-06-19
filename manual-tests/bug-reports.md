@@ -17,7 +17,7 @@ This file includes sample bug reports based on issues discovered during manual o
   1. Go to [https://www.wrighteck.com](https://www.wrighteck.com)  
   2. Hover “Teck Education” in the top navigation menu
   3. Observe drop down menu
-  4. Click "Teck Videos" from the drop down menu
+  4. Click "Teck Videos" on the drop down menu
 - **Expected Result:**  
    `/teck-videos` page should display a list of embedded Technical Videos  
 - **Actual Result:**  
