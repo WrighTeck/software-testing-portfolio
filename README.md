@@ -29,9 +29,8 @@ Located in `/docs` (to be added):
 - Sample bug report formats used in production QA teams
 
 ### Technical Skills in Action
-Located in `docs/technical-skills` (to be added)
+Located in `docs/technical-skills` (to be added) <br>
 Explore how I apply key QA and technical writing skills across real-world projects:
-
 - [AI, Automation & API Tools](./docs/technical-skills/ai-automation-api.md)
 - [Test Management & Bug Tracking](./docs/technical-skills/test-management-bug-tracking.md)
 - [Documentation Tools](./docs/technical-skills/documentation-tools.md)
