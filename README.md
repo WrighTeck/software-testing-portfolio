@@ -37,6 +37,12 @@ Located in `/docs` (to be added):
 - Ad validation and playback test flows
 - Sample bug report formats used in production QA teams
 
+![Playwright](https://img.shields.io/badge/Playwright-E43267?logo=playwright&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-0A0A0A?logo=appium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
+
 
 ## About Me
 
