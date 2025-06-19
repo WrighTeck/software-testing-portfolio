@@ -21,17 +21,15 @@ Located in `/automation-tests`:
 - Tests written against [https://www.wrighteck.com](https://www.wrighteck.com)
 - Automation examples applicable to modern web and responsive mobile views
 
-## Skills Demonstrated
+### OTT, Web, and Mobile QA Workflows
+Located in `/docs` (to be added):
+- Platform-specific testing strategies
+- Device matrix examples for streaming platforms (Roku, Fire TV, AndroidTV, etc.)
+- Ad validation and playback test flows
+- Sample bug report formats used in production QA teams
+
+### 🧠 Technical Skills in Action
 Located in `docs/technical-skills` (to be added)
-- Manual Testing: Test case design, bug reports, smoke checklists
-- Automation Testing: Playwright with TypeScript for functional tests
-- OTT Testing: Roku, FireTV, and Vizio QA workflows
-- Mobile Testing: iOS and Android UI testing with Appium
-- Web Testing: Functional, UI, and regression test design
-- Test Documentation: Plans, reports, and test execution notes
-
-## 🧠 Technical Skills in Action
-
 Explore how I apply key QA and technical writing skills across real-world projects:
 
 - [AI, Automation & API Tools](./docs/technical-skills/ai-automation-api.md)
@@ -87,13 +85,6 @@ Android Studio, Telnet, CLI, Xcode, Roku Deep Linking, Firebase, Comscore, Wires
 ### 📊 Analytics & Databases
 JW Analytics, Google Analytics  
 Oracle (PL/SQL), MS SQL, RDBMS
-
-### OTT, Web, and Mobile QA Workflows
-Located in `/docs` (to be added):
-- Platform-specific testing strategies
-- Device matrix examples for streaming platforms (Roku, Fire TV, AndroidTV, etc.)
-- Ad validation and playback test flows
-- Sample bug report formats used in production QA teams
 
 ## About Me
 
