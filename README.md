@@ -34,7 +34,7 @@ Located in `/docs` (or to be added):
 I’m Jean Wright, a QA Engineer and Technical Writer with 10+ years of experience in software testing across OTT platforms, web apps, and mobile devices. I create guides, tools, and testing frameworks to deliver high-quality, user-friendly software.
 
 🌐 Website: [WrighTeck.com](https://www.wrighteck.com)  
-📧 Email: [jeannieqa1971@gmail.com](mailto:jeannieqa1971@gmail.com)  
+📧 Email: [jeannie1971@gmail.com](mailto:jeannie1971@gmail.com)  
 📌 LinkedIn: [Jean Wright](https://www.linkedin.com/in/jean-wright-42129226/)
 
 ---
