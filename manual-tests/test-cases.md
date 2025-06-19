@@ -30,7 +30,7 @@ This section includes sample test cases used in real-world QA workflows. These a
 | **Test Type**      | Functional                                                   |
 | **Priority**       | Medium                                                       |
 | **Preconditions**  | User is on the homepage                                      |
-| **Test Steps**     | 1. Hover “Support Services” in the top menu<br>2. Observe drop down menu <br>3. Click Notary Services<br> 3.Observe the URL and page content|
+| **Test Steps**     | 1. Hover “Support Services” in the top menu<br>2. Observe drop down menu <br>3. Click Notary Services<br> 4.Observe the URL and page content|
 | **Expected Result**| Page should navigate to `/notary-services` and display service info |
 | **Actual Result**  | _To be filled during execution_                              |
 | **Status**         | _Pass / Fail / Blocked_                                      |
