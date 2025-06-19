@@ -28,7 +28,7 @@ Located in `/docs` (to be added):
 - Ad validation and playback test flows
 - Sample bug report formats used in production QA teams
 
-### 🧠 Technical Skills in Action
+### Technical Skills in Action
 Located in `docs/technical-skills` (to be added)
 Explore how I apply key QA and technical writing skills across real-world projects:
 
@@ -47,42 +47,42 @@ Explore how I apply key QA and technical writing skills across real-world projec
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
 
-## 📌 Technical Skills Outline
+## Technical Skills Outline
 
-### 🎯 AI, Automation & API Tools
+### AI, Automation & API Tools
 Generative AI, Prompt Engineering (ChatGPT), Appium, Appium Inspector, WebdriverIO, Cucumber BDD, Postman, BrowserStack
 
-### ✅ Test Management & Bug Tracking
+### Test Management & Bug Tracking
 TestRail, Xray, Zephyr Squad, Bugzilla, Gherkin, JIRA
 
-### 📝 Technical Documentation
+### Technical Documentation
 Confluence, Microsoft Office, Google Workspace, Markdown
 
-### 🌐 Browsers
+### Browsers
 Cross-browser testing on Chrome, Firefox, Safari, Edge, Opera
 
-### 💳 Payment Systems
+### Payment Systems
 Ayden, Stripe, Integrated Payment Gateways
 
-### 💻 Programming Languages & Tools
+### Programming Languages & Tools
 JavaScript, TypeScript, SQL, Eclipse, Visual Studio Code, IntelliJ, Brackets
 
-### ☁️ Cloud & Debugging
+###  Cloud & Debugging
 BrowserStack, AWS, Firebase, Datadog, Charles Proxy, Cloudwatch, Browser Dev Tools
 
-### 📺 Devices & Platforms
+### Devices & Platforms
 Smart speakers, FireTV, Android, tvOS (AppleTV), iOS, Windows Desktop, Windows OS, MacOS/Linux, Samsung, LG, Roku, Vizio
 
-### 🔁 Methodologies
+### Methodologies
 Agile, Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC)
 
-### 🧪 Testing Methods
+### Testing Methods
 Functional, Navigational, BVT, UAT, Usability, Regression, Smoke, Performance
 
-### ⚙️ Backend & Testing Tools
+### Backend & Testing Tools
 Android Studio, Telnet, CLI, Xcode, Roku Deep Linking, Firebase, Comscore, Wireshark, AWS (S3 Config), Bitbucket, Git, GitHub
 
-### 📊 Analytics & Databases
+### Analytics & Databases
 JW Analytics, Google Analytics  
 Oracle (PL/SQL), MS SQL, RDBMS
 
