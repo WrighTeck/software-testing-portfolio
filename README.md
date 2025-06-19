@@ -22,7 +22,7 @@ Located in `/automation-tests`:
 - Automation examples applicable to modern web and responsive mobile views
 
 ## Skills Demonstrated
-Located in `/skills` (to be added)
+Located in `docs/technical-skills` (to be added)
 - Manual Testing: Test case design, bug reports, smoke checklists
 - Automation Testing: Playwright with TypeScript for functional tests
 - OTT Testing: Roku, FireTV, and Vizio QA workflows
@@ -30,11 +30,63 @@ Located in `/skills` (to be added)
 - Web Testing: Functional, UI, and regression test design
 - Test Documentation: Plans, reports, and test execution notes
 
+## 🧠 Technical Skills in Action
+
+Explore how I apply key QA and technical writing skills across real-world projects:
+
+- [AI, Automation & API Tools](./docs/technical-skills/ai-automation-api.md)
+- [Test Management & Bug Tracking](./docs/technical-skills/test-management-bug-tracking.md)
+- [Documentation Tools](./docs/technical-skills/documentation-tools.md)
+- [Cross-Browser Testing](./docs/technical-skills/cross-browser-testing.md)
+- [Programming Languages & IDEs](./docs/technical-skills/programming-tools.md)
+- [Devices & Platforms](./docs/technical-skills/devices-platforms.md)
+- [Testing Methodologies](./docs/technical-skills/testing-methodologies.md)
+- [Analytics & Databases](./docs/technical-skills/analytics-databases.md)
+
 ![Playwright](https://img.shields.io/badge/Playwright-E43267?logo=playwright&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-0A0A0A?logo=appium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
+
+## 📌 Technical Skills Outline
+
+### 🎯 AI, Automation & API Tools
+Generative AI, Prompt Engineering (ChatGPT), Appium, Appium Inspector, WebdriverIO, Cucumber BDD, Postman, BrowserStack
+
+### ✅ Test Management & Bug Tracking
+TestRail, Xray, Zephyr Squad, Bugzilla, Gherkin, JIRA
+
+### 📝 Technical Documentation
+Confluence, Microsoft Office, Google Workspace, Markdown
+
+### 🌐 Browsers
+Cross-browser testing on Chrome, Firefox, Safari, Edge, Opera
+
+### 💳 Payment Systems
+Ayden, Stripe, Integrated Payment Gateways
+
+### 💻 Programming Languages & Tools
+JavaScript, TypeScript, SQL, Eclipse, Visual Studio Code, IntelliJ, Brackets
+
+### ☁️ Cloud & Debugging
+BrowserStack, AWS, Firebase, Datadog, Charles Proxy, Cloudwatch, Browser Dev Tools
+
+### 📺 Devices & Platforms
+Smart speakers, FireTV, Android, tvOS (AppleTV), iOS, Windows Desktop, Windows OS, MacOS/Linux, Samsung, LG, Roku, Vizio
+
+### 🔁 Methodologies
+Agile, Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC)
+
+### 🧪 Testing Methods
+Functional, Navigational, BVT, UAT, Usability, Regression, Smoke, Performance
+
+### ⚙️ Backend & Testing Tools
+Android Studio, Telnet, CLI, Xcode, Roku Deep Linking, Firebase, Comscore, Wireshark, AWS (S3 Config), Bitbucket, Git, GitHub
+
+### 📊 Analytics & Databases
+JW Analytics, Google Analytics  
+Oracle (PL/SQL), MS SQL, RDBMS
 
 ### OTT, Web, and Mobile QA Workflows
 Located in `/docs` (to be added):
@@ -45,7 +97,7 @@ Located in `/docs` (to be added):
 
 ## About Me
 
-I’m Jean Wright, a QA Engineer and Technical Writer with 10+ years of experience in software testing across OTT platforms, web apps, and mobile devices. I create guides, tools, and testing frameworks to deliver high-quality, user-friendly software.
+I am Jean Wright, a QA Engineer and Technical Writer with 10+ years of experience in software testing across OTT platforms, web apps, and mobile devices. I create guides, tools, and testing frameworks to deliver high-quality, user-friendly software.
 
 🌐 Website: [WrighTeck.com](https://www.wrighteck.com)  
 📧 Email: [jeannie1971@gmail.com](mailto:jeannie1971@gmail.com)  
