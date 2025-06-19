@@ -15,7 +15,7 @@ Located in `/manual-tests`:
 - Sample bug reports
 - QA checklists for OTT, mobile, and web platforms
 
-### 🤖 Automation Testing
+### Automation Testing
 Located in `/automation-tests`:
 - Playwright + TypeScript test examples
 - Tests written against [https://www.wrighteck.com](https://www.wrighteck.com)
