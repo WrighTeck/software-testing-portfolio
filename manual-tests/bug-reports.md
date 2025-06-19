@@ -4,10 +4,10 @@ This file includes sample bug reports based on issues discovered during manual o
 
 ---
 
-## 🐞 Bug Report 001: Broken Navigation Link (Web)
+## 🐞 Bug Report 001: Tech Videos Not Available (Web)
 
 - **Bug ID:** BUG-WEB-001  
-- **Title:** Notary Services link in top nav redirects to 404 page  
+- **Title:** Videos are missing from Tech Videos page 
 - **Severity:** Medium  
 - **Priority:** High  
 - **Environment:**  
@@ -15,12 +15,15 @@ This file includes sample bug reports based on issues discovered during manual o
   - Browser: Safari 17.5  
 - **Steps to Reproduce:**  
   1. Go to [https://www.wrighteck.com](https://www.wrighteck.com)  
-  2. Click on “Notary Services” in the top navigation menu  
+  2. Hover “Teck Education” in the top navigation menu
+  3. Observe drop down menu
+  4. Click "Teck Videos" from the drop down menu
 - **Expected Result:**  
-  Should navigate to `/notary-services` page displaying service info  
+   `/teck-videos` page should display a list of embedded Technical Videos  
 - **Actual Result:**  
-  Redirects to 404 error page  
-- **Screenshot:** _[attach if available]_  
+  Place holder text 'Tech Videos Coming Soon' is displayed.
+- **Screenshot:** _[screenshot attachment]_
+- **Screenrecording:** _[screenrecording attachment]_
 - **Status:** Open  
 - **Reported By:** Jean Wright  
 - **Date:** June 18, 2025  
