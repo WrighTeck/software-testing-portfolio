@@ -30,19 +30,18 @@ Located in `/skills` (to be added)
 - Web Testing: Functional, UI, and regression test design
 - Test Documentation: Plans, reports, and test execution notes
 
-### OTT, Web, and Mobile QA Workflows
-Located in `/docs` (to be added):
-- Platform-specific testing strategies
-- Device matrix examples for streaming platforms (Roku, Fire TV, AndroidTV, etc.)
-- Ad validation and playback test flows
-- Sample bug report formats used in production QA teams
-
 ![Playwright](https://img.shields.io/badge/Playwright-E43267?logo=playwright&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-0A0A0A?logo=appium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
 
+### OTT, Web, and Mobile QA Workflows
+Located in `/docs` (to be added):
+- Platform-specific testing strategies
+- Device matrix examples for streaming platforms (Roku, Fire TV, AndroidTV, etc.)
+- Ad validation and playback test flows
+- Sample bug report formats used in production QA teams
 
 ## About Me
 
