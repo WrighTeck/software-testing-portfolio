@@ -2,10 +2,10 @@
 Welcome! This portfolio showcases my hands-on experience and testing strategies across **OTT, Web, and Mobile QA**, including both manual and automated testing, along with technical documentation samples.
 
  **What You'll Find Here:**
-- Real-world manual test cases and bug reports
-- Sample Playwright automation tests for my own website (WrighTeck.com)
-- OTT, Web and mobile QA testing workflows
-- Testing templates and documentation samples
+	•	Real-world manual test cases and bug reports
+	•	Sample Playwright and Appium automation tests (in progress) for WrighTeck.com
+	•	End-to-end QA workflows for OTT platforms, web applications, and mobile devices
+	•	Testing templates, documentation samples, and skills-in-action under /docs/technical-skills (coming soon)
   
 ## Repo Sections
 
