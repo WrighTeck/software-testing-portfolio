@@ -4,6 +4,9 @@ test('Homepage loads successfully and displays key elements', async ({ page }) =
   // Navigate to the homepage
   await page.goto('https://www.wrighteck.com');
 
+   // Pause so you can see the page and interact manually
+  await page.pause();
+
   // Check that the header is visible
   const header = page.locator('header');
   await expect(header).toBeVisible();
