@@ -1,3 +1,4 @@
+// Importing the core Playwright testing utilities
 import { test, expect } from '@playwright/test';
 
 test('Homepage loads successfully and displays key elements', async ({ page }) => {
