@@ -10,12 +10,12 @@ Ensure ads play at correct time intervals during playback and meet ad platform s
 2. Launch the app on Roku.
 3. Select a video that is ad-supported.
 4. Click Play.
-5. Observe for pre-roll ad:
+5. Observe pre-roll ad:
    - [ ] Ad plays before content
    - [ ] Duration matches expected (e.g., 15s or 30s)
    - [ ] Can’t skip unless allowed
    - [ ] No black screen or freezing
-6. Let video play to mid-roll point (timestamp configured for ad insertion).
+6. Let video play to mid-roll cue point (timestamp configured for ad insertion).
 7. Observe mid-roll ad behavior:
    - [ ] Ad loads within 2 seconds
    - [ ] Video resumes after ad
@@ -26,7 +26,7 @@ Ensure ads play at correct time intervals during playback and meet ad platform s
 
 **Expected Result:**
 - Ads appear at expected intervals
-- Tracking events fire
+- Tracked events are triggered
 - Playback resumes seamlessly after ad
 
 **Devices Tested:**
