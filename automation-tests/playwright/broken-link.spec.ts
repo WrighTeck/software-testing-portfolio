@@ -1,7 +1,11 @@
+// Importing necessary functions from Playwright test module
 import { test, expect } from '@playwright/test';
 
+// Define a test case to check if the "Buy Guide" button leads to a broken (404) page
 test('Broken link - Buy Guide button leads to 404 page', async ({ page }) => {
+// Navigate to the Teck Education page on the website
   await page.goto('https://www.wrighteck.com/teck-education');
+// Wait until the initial DOM content has loaded
   await page.waitForLoadState('domcontentloaded');
 
   // Click the "Buy Guide" button
@@ -10,7 +14,7 @@ test('Broken link - Buy Guide button leads to 404 page', async ({ page }) => {
   // Wait for navigation
   await page.waitForLoadState('networkidle');
 
-   // Check for 404 text
+// Check for 404 text
 // Wait for navigation and confirm path
 await expect(page).toHaveURL(/\/error404/);
 
