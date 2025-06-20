@@ -10,7 +10,7 @@ Welcome! This portfolio showcases my hands-on experience and testing strategies 
 ## Repo Sections
 
 ### Manual Testing
-Located in `/manual-tests`: at (./manual-tests)
+Located in `/manual-tests`:
 - Functional & UI test cases
 - Sample bug reports
 - QA checklists for OTT, mobile, and web platforms
