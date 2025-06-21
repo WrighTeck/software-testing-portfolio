@@ -13,8 +13,6 @@ Planned coverage:
 - Form input validation
 - Navigation checks
 
-📁 See: `/automation-tests/playwright/` (coming soon)
-
 ---
 
 ## Appium Tests
