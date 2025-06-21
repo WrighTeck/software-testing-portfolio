@@ -15,7 +15,7 @@ Planned coverage:
 
 ---
 
-### Appium Tests (Mobile Automation)
+## Appium Tests (Mobile Automation)
 
 Appium-based automation for validating **mobile responsiveness**, **UI behavior**, and **feature functionality** across Android and iOS devices using **WebdriverIO** and **TypeScript**.
 
