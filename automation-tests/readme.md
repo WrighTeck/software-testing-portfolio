@@ -4,7 +4,7 @@ This folder showcases real-world automation test scripts for Web and Mobile plat
 
 ---
 
-## Playwright Tests
+## Playwright Tests (Web Automation)
 
 Automated tests for [WrighTeck.com](https://www.wrighteck.com) using **Playwright** and **TypeScript**.
 
@@ -15,13 +15,18 @@ Planned coverage:
 
 ---
 
-## Appium Tests
+### Appium Tests (Mobile Automation)
 
-Appium-based automation for testing **mobile responsiveness** and functionality using **WebdriverIO** and **JavaScript**.
+Appium-based automation for validating **mobile responsiveness**, **UI behavior**, and **feature functionality** across Android and iOS devices using **WebdriverIO** and **TypeScript**.
 
-Planned coverage:
-- Mobile homepage layout verification
-- Navigation behavior on Android/iOS
-- Contact form input & submission on mobile
+Current and planned coverage includes:
+- Homepage layout verification on real devices and emulators
+- Navigation and menu interaction behavior (Android/iOS)
+- Mobile contact form input validation and submission flow
+- Sample tests using:
+  - [Android API Demos](https://github.com/appium/android-apidemos)
+  - [iOS UIKit Catalog](https://github.com/appium/ios-uicatalog)
+
+> Appium Inspector and emulators/simulators are used for session recording and locator strategy verification.
 
 📁 See: `/automation-tests/appium/` (coming soon)
