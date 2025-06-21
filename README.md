@@ -17,8 +17,11 @@ Located in `/manual-tests`:
 
 ### Automation Testing
 Located in `/automation-tests`:
-- Playwright + TypeScript test examples
-- Tests written against [https://www.wrighteck.com](https://www.wrighteck.com)
+- Playwright, Appium + TypeScript test examples
+- Playwright tests written against [https://www.wrighteck.com](https://www.wrighteck.com)
+- Appium tests for Android written against  [API Demos](https://github.com/appium/android-apidemos)  
+- Appium tests for iOS written against [UI Catalog](https://github.com/appium/ios-uicatalog)  
+ 
 - Automation examples applicable to modern web and responsive mobile views
 
 ### OTT, Web, and Mobile QA Workflows
