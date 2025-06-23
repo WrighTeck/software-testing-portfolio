@@ -1,0 +1,12 @@
+{ 
+  "api13": {
+    "platformVersion": "13",
+    "deviceName": "Android Emulator",
+    "udid": "emulator-5554"
+  },
+  "api16": {
+    "platformVersion": "16",
+    "deviceName": "Android Emulator API 16",
+    "udid": "emulator-5566"
+  }
+}
