@@ -1,5 +1,5 @@
 # Software Testing Portfolio by Jean E. Wright
-Welcome! This portfolio showcases my hands-on experience and testing strategies across **OTT, Web, and Mobile QA**, including both manual and automated testing, along with technical documentation samples.
+Welcome to my Software Testing Portfolio! This portfolio showcases my hands-on experience and testing strategies across **OTT, Web, and Mobile QA**, including both manual and automated testing, along with technical documentation samples.
 
  **What You'll Find Here:**
 	•	Real-world manual test cases and bug reports
