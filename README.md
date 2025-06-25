@@ -1,11 +1,11 @@
 # Software Testing Portfolio by Jean E. Wright
-Welcome to my Software Testing Portfolio! This portfolio showcases my hands-on experience and testing strategies across **OTT, Web, and Mobile QA**, including both manual and automated testing, along with technical documentation samples.
+Welcome to my Software Testing Portfolio! This portfolio shows hands-on experience and testing strategies across **OTT, Web, and Mobile Software Testing**, which included both manual and automated testing, along with documentation.
 
  **What You'll Find Here:**
 	•	Real-world manual test cases and bug reports
-	•	Sample Playwright and Appium automation tests (in progress) for WrighTeck.com
+	•	Sample Playwright and Appium automation tests for WrighTeck.com
 	•	End-to-end QA workflows for OTT platforms, web applications, and mobile devices
-	•	Testing templates, documentation samples, and skills-in-action under /docs/technical-skills (coming soon)
+	•	Testing templates, documentation samples, and technical skills, located in /docs/technical-skills (coming soon)
   
 ## Repo Sections
 
@@ -21,16 +21,15 @@ Located in [`/automation-tests`](https://github.com/WrighTeck/software-testing-p
 - Playwright tests written against [https://www.wrighteck.com](https://www.wrighteck.com)
 - Appium tests for Android written against  [API Demos](https://github.com/appium/android-apidemos)  
 - Appium tests for iOS written against [UI Catalog](https://github.com/appium/ios-uicatalog)  
- 
-- Automation examples applicable to modern web and responsive mobile views
+- Automation examples applicable to web and mobile views
 
 ### OTT, Web, and Mobile QA Workflows
 Located in `/docs` (to be added):
 - Platform-specific testing strategies
 - Device matrix examples for streaming platforms (Roku, Fire TV, AndroidTV, etc.)
 - Ad validation and playback test flows
-- Sample bug report formats used in production QA teams
-
+- Sample bug report formats
+  
 ### Technical Skills in Action
 Located in `docs/technical-skills` (to be added) <br>
 Explore how I apply key QA and technical writing skills across real-world projects:
