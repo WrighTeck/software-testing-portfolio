@@ -1,6 +1,6 @@
 # 🤖 Automation Tests
 
-This folder showcases real-world automation test scripts for Web and Mobile platforms.
+This folder showcases automation test scripts for Web and Mobile platforms.
 
 ---
 
@@ -8,7 +8,7 @@ This folder showcases real-world automation test scripts for Web and Mobile plat
 
 Automated tests for [WrighTeck.com](https://www.wrighteck.com) using **Playwright** and **TypeScript**.
 
-Test coverage:
+Test coverage includes:
 - Homepage UI smoke test
 - Form input validation
 - Navigation checks
@@ -20,8 +20,8 @@ Test coverage:
 Appium-based test automation for validating **mobile responsiveness**, **UI behavior**, and **feature functionality** across Android and iOS devices using **WebdriverIO** and **TypeScript**.
 
 Test coverage includes:
-- Homepage layout verification on real devices and emulators
-- Navigation and menu interaction behavior (Android/iOS)
+- Homepage layout verification on emulators
+- Navigation and menu behavior (Android/iOS)
 - Mobile contact form input validation and submission flow
 - Sample apps used are :
   - [Android API Demos](https://github.com/appium/android-apidemos)
