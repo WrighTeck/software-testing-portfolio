@@ -17,12 +17,12 @@ Test coverage includes:
 
 ## Appium Tests (Mobile Automation)
 
-Appium-based test automation for validating **mobile responsiveness**, **UI behavior**, and **feature functionality** across Android and iOS devices using **WebdriverIO** and **TypeScript**.
+Appium-based test automation for validating **mobile responsiveness**, **UI behavior**, **feature** and **functionality** across Android and iOS devices using **WebdriverIO** and **TypeScript**.
 
 Test coverage includes:
 - Homepage layout verification on emulators
 - Navigation and menu behavior (Android/iOS)
-- Mobile contact form input validation and submission flow
+- Mobile contact form input validation and submission 
 - Sample apps used are :
   - [Android API Demos](https://github.com/appium/android-apidemos)
   - [iOS UIKit Catalog](https://github.com/appium/ios-uicatalog)
