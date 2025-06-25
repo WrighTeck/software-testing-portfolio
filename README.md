@@ -24,7 +24,7 @@ Located in [`/automation-tests`](https://github.com/WrighTeck/software-testing-p
 - Automation examples applicable to web and mobile views
 
 ### OTT, Web, and Mobile QA Workflows
-Located in `/docs` (to be added):
+Located in [`/docs`](https://github.com/WrighTeck/software-testing-portfolio/tree/main/docs):
 - Platform-specific testing strategies
 - Device matrix examples for streaming platforms (Roku, Fire TV, AndroidTV, etc.)
 - Ad validation and playback test flows
