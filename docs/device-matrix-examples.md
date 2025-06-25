@@ -86,9 +86,6 @@
 
 ---
 
-*Prepared by Jean Wright*
+*Prepared by Jean Wright | This guide will be updated periodically*
 
 
-⸻
-
-Would you like me to save this markdown file for you? Or do you want instructions on how to add it to your GitHub repo?
