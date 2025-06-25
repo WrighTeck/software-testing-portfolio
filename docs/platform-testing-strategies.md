@@ -10,15 +10,17 @@ This document outlines practical, real-world testing strategies for various OTT 
 - Enable Developer Mode on Roku device.
 - Connect Roku device and test environment(for eg.Laptop running Roku Dev Tools) to the same wi-fi network.
 - Use Roku Developer Dashboard and Device Access Protocol (DAP) for app sideloading and remote commands.
-  - Roku
+  - Roku Developer Dashboard is used to upload your app and control the device remotely.
+  - Device Access Protocol (DAP) is a way to send commands to your Roku device over the network.
 
 ### Build & Deploy
 - Package BrightScript apps as `.pkg` or `.zip`.
 - Sideload apps using Roku’s web interface or automation scripts.
 - Automate deployment with Roku’s External Control Protocol (ECP).
+  - External Control Protocol (ECP) is a way to control your Roku device remotely using commands sent over the network.
 
 ### Testing Techniques
-- UI navigation using remote control simulation.
+- UI navigation using a physical remote or remote control simulation.
 - Test remote input delays, button mappings, and long presses.
 - Monitor app launch time and responsiveness.
 - Use Roku logs via telnet or dashboard for debugging.
@@ -27,7 +29,7 @@ This document outlines practical, real-world testing strategies for various OTT 
 ### Common Pitfalls
 - Limited debugging visibility.
 - Remote control input lag.
-- Packaging errors causing failed deployment.
+- Packaging errors that causes failed deployment.
 
 ---
 
@@ -36,7 +38,7 @@ This document outlines practical, real-world testing strategies for various OTT 
 ### Environment Setup
 - Use Android Studio with Android TV emulator or physical Fire TV devices.
 - Enable ADB over network or USB.
-- Connect devices to development machines.
+- Connect devices to development environments.
 
 ### Build & Deploy
 - Build APKs targeting Android TV.
@@ -44,14 +46,14 @@ This document outlines practical, real-world testing strategies for various OTT 
 
 ### Testing Techniques
 - Test multiple input methods: remote, voice, input fields.
-- Validate app lifecycle events (background, resume, sleep).
+- Validate app events (app launch, background and foreground events, quit/close)
 - Check UI scaling on different resolutions.
 - Automate using UI Automator, Espresso, or Appium.
 
 ### Common Pitfalls
 - Input method inconsistencies.
 - UI scaling and resolution issues.
-- Voice recognition variability.
+- Voice recognition variations.
 
 ---
 
@@ -88,12 +90,13 @@ This document outlines practical, real-world testing strategies for various OTT 
 ### Build & Deploy
 - Package web apps (`.ipk` for LG, `.wgt` for Samsung).
 - Deploy via SDK or TV interfaces.
+  - TV interfaces include browsers like Firefox for TV, Amazon Silk Browser, and Google Chrome for AndroidTV.
 
 ### Testing Techniques
 - Test standard and voice remote navigation.
 - Verify web app rendering on TV browsers.
 - Monitor performance and memory usage.
-- Automation is limited; consider Selenium/WebDriver or image recognition.
+- Automation is limited - consider Selenium/WebDriver or image recognition.
 
 ### Common Pitfalls
 - Fragmented OS versions.
@@ -111,19 +114,19 @@ This document outlines practical, real-world testing strategies for various OTT 
 
 ### Build & Deploy
 - Deploy web apps to test servers.
-- Install mobile apps via app stores or direct installs.
+- Install mobile apps via app stores or direct installations.
 
 ### Testing Techniques
 - Cross-browser and cross-device compatibility.
-- Network throttling for adaptive streaming tests.
+- Network throttling (intentional slowing down internet) to observe changes in video quality.
 - Ad playback validation.
 - Automate using Selenium, Playwright (web), and Appium (mobile).
 
 ### Common Pitfalls
 - Browser-specific playback issues.
 - Adaptive bitrate streaming problems on slow networks.
-- Device performance affecting playback smoothness.
+- Device performance affecting playback consistency.
 
 ---
 
-*This document is a guide and should be updated regularly with new tools, platforms, and testing best practices.*
+*This document is a guide and will be updated periodically with new tools, platforms, and testing best practices.*
