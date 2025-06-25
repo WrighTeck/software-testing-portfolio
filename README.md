@@ -10,7 +10,7 @@ Welcome to my Software Testing Portfolio! This portfolio showcases my hands-on e
 ## Repo Sections
 
 ### Manual Testing
-Located in [`/manual-tests`]:(https://github.com/WrighTeck/software-testing-portfolio/tree/main/manual-tests)
+Located in [`/manual-tests`](https://github.com/WrighTeck/software-testing-portfolio/tree/main/manual-tests):
 - Functional & UI test cases
 - Sample bug reports
 - QA checklists for OTT, mobile, and web platforms
