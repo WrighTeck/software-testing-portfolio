@@ -10,7 +10,7 @@ This document outlines practical, real-world testing strategies for various OTT 
 - Enable Developer Mode on Roku device.
 - Connect Roku device and test environment(for eg.Laptop running Roku Dev Tools) to the same wi-fi network.
 - Use Roku Developer Dashboard and Device Access Protocol (DAP) for app sideloading and remote commands.
-- - Roku
+  - Roku
 
 ### Build & Deploy
 - Package BrightScript apps as `.pkg` or `.zip`.
