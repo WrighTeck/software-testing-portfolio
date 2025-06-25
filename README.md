@@ -16,7 +16,7 @@ Located in `/manual-tests`:
 - QA checklists for OTT, mobile, and web platforms
 
 ### Automation Testing
-Located in `/automation-tests`: [Automation Test Files](https://github.com/WrighTeck/software-testing-portfolio/tree/main/automation-tests)
+Located in [`/automation-tests`](https://github.com/WrighTeck/software-testing-portfolio/tree/main/automation-tests):
 - Playwright, Appium + TypeScript test examples
 - Playwright tests written against [https://www.wrighteck.com](https://www.wrighteck.com)
 - Appium tests for Android written against  [API Demos](https://github.com/appium/android-apidemos)  
