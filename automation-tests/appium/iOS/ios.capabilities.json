@@ -1,0 +1,8 @@
+{
+  "platformName": "iOS",
+  "appium:platformVersion": "18.3",
+  "appium:deviceName": "iPhone 16",
+  "appium:automationName": "XCUITest",
+  "appium:app": "/.../....../ios-appium-tests/node_modules/ios-uicatalog/UIKitCatalog/build/Release-iphonesimulator/UIKitCatalog-iphonesimulator.app",
+  "appium:noReset": true
+}
