@@ -46,8 +46,8 @@ Supported web and mobile application teams by testing custom-built solutions ran
 - Reported functional, UI/UX, and performance issues with detailed bug reports, logs, and recordings.
 - Participated in sprint planning and reviews to ensure test coverage aligns with story acceptance criteria.
 - Helped bridge gaps between QA, development, and product through active documentation and collaboration.
-- Supported cross-browser testing using Chrome, Firefox, Safari, and Edge on multiple platforms.
-
+- Supported cross-browser, cross-device and cross-platform testing.
+  
 ### Tools Used
 TestRail, Zephyr Squad, JIRA, GitHub, Chrome DevTools, BrowserStack, Markdown
 
