@@ -13,17 +13,13 @@ This section shows how I leverage documentation tools to create high-quality, st
   - Test case repositories  
   - Technical how-to guides for stakeholders  
 
-- **Google Workspace (Docs, Sheets, Drive)**  
+- **Google Workspace & Microsoft Office Applications**
   Used to:
   - Draft testing references and onboarding checklists  
   - Document **device setup instructions**, **automation configurations**, and **manual testing flows**  
-  - Share collaboration-friendly test guides and feedback templates  
-
-- **Microsoft Office Suite (Word, Excel, PowerPoint)**  
-  Ideal for:
-  - Creating test summary reports and defect overviews  
-  - Presenting QA metrics and release health dashboards  
-  - Documenting test execution checklists in Excel  
+  - Share collaboration-friendly test guides and feedback templates
+  - Track data and feature integration on test and staging environments in Excel
+  - Document app performance during ad hoc testing
 
 - **Markdown**  
   Used in:
