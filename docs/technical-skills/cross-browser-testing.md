@@ -16,25 +16,25 @@ This section demonstrates how I perform cross-browser testing to ensure consiste
 
 ## ✅ Real-World Testing Practices
 
-### 🔸 Functional Testing Across Browsers
+### Functional Testing Across Browsers
 - Verified core app workflows (login, forms, navigation, filters, media playback) across different browsers.
 - Focused on interactive UI elements (buttons, dropdowns, modals) for consistency and responsiveness.
 
-### 🔸 Visual Validation
+### Visual Validation
 - Identified UI inconsistencies such as:
   - Misaligned elements
   - Font rendering issues
   - Overlapping components
   - Layout breaks in Safari and Opera
 
-### 🔸 Compatibility Scenarios
+### Compatibility Scenarios
 - Validated CSS behavior differences across browser engines.
 - Checked HTML5 video/audio playback, especially for media apps and OTT platforms.
 - Ensured functions worked without console errors across all browsers.
 
 ---
 
-## 🧰 Tools & Techniques Used
+## Tools & Techniques Used
 
 - **Manual Testing** on physical devices and Windows virtual machines (via Remote Deskop)
 - **DevTools** (Chrome, Firefox, and Safari Web Inspector)
@@ -43,7 +43,7 @@ This section demonstrates how I perform cross-browser testing to ensure consiste
 
 ---
 
-## 📌 Key Focus Areas
+## Key Focus Areas
 
 - UI alignment and layout consistency
 - Form input validation and error handling
@@ -54,7 +54,7 @@ This section demonstrates how I perform cross-browser testing to ensure consiste
 
 ---
 
-## 🐞 Sample Defects Found
+## Sample Defects Found
 
 - Rounded corners not rendering in Firefox due to missing CSS prefixes
 - Safari ignoring default input styling on date pickers
@@ -62,7 +62,7 @@ This section demonstrates how I perform cross-browser testing to ensure consiste
 
 ---
 
-## 💡 Best Practices I Follow
+## Best Practices I Follow
 
 - Always test with the latest stable version of each major browser.
 - Prioritize issues based on user traffic analytics for supported browsers.
