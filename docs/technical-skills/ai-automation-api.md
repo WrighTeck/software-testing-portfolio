@@ -9,6 +9,8 @@ I actively use AI tools like ChatGPT and Claude to support my QA and documentati
 - Create test scripts for Web & Mobile Automation
 - Drafting user-facing test documentation
 
+**Tools Used:** Generative AI, Prompt Engineering (ChatGPT)
+
 **Example Prompts:**
 ```text
 "Write edge case test scenarios for a password reset feature that includes CAPTCHA and email verification."
@@ -36,6 +38,9 @@ My automation testing workflow includes writing scripts in **TypeScript** using 
 - **Appium** for Android & iOS mobile UI testing
 - **Playwright** for browser automation
 - **WebDriverIO** for hybrid web/mobile testing
+- **Cucumber BDD** for writing automated test scripts.
+
+**Tech Stacks Used:** Appium, Appium Inspector, WebdriverIO, Cucumber BDD
 
 **Example from an Appium test (Android API Demos):**
 ```ts
@@ -51,6 +56,8 @@ Although I haven’t used Postman professionally, I’ve taught myself through L
 **Tools Used:**
 - Postman for sending and validating REST API requests
 - Swagger UI for understanding and testing documented endpoints
+
+**Skills Used:** Postman
 
 **What I Practice:**
 - Testing `GET`, `POST`, `PUT`, `DELETE` methods
@@ -100,3 +107,8 @@ git pull origin main
 - Opened pull requests for test reviews
 - Merged branches after approval
 - Resolved simple merge conflicts when syncing branches
+
+## 🌐 Test Infrastructure
+When applicable, I use **BrowserStack** to execute cross-browser or device-based tests for iOS testing.
+
+**Skills Used:** BrowserStack
