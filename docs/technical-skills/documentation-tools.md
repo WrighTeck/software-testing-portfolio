@@ -1,6 +1,6 @@
 # 📝 Documentation Tools
 
-This section shows how I leverage documentation tools to create high-quality, structured technical content that supports QA processes, team onboarding, and knowledge sharing.
+This section shows how I leverage documentation tools to create high-quality, structured technical content that supports QA processes, onboarding, and knowledge sharing.
 
 ---
 
@@ -9,30 +9,29 @@ This section shows how I leverage documentation tools to create high-quality, st
 - **Confluence**  
   For creating and organizing:
   - QA process documentation  
-  - Test strategies and coverage matrices  
-  - Test case repositories  
-  - Technical how-to guides for stakeholders  
+  - Test strategies, test documenatation, and coverage matrices  
+  - Technical how-to guides for team members.
 
 - **Google Workspace & Microsoft Office Applications**
   Used to:
-  - Draft testing references and onboarding checklists  
+  - Draft testing references and onboarding checklists,  
   - Document **device setup instructions**, **automation configurations**, and **manual testing flows**  
   - Share collaboration-friendly test guides and feedback templates
-  - Track data and feature integration on test and staging environments in Excel
-  - Document app performance during ad hoc testing
+  - Track data and feature integration on test and staging environments (using Excel).
+  - Document app performance and data validation during ad hoc testing.
 
 - **Markdown**  
   Used in:
   - GitHub README files for automation repos  
   - Lightweight, version-controlled test notes  
-  - Portable documentation for test workflows and bug reporting procedures  
+  - API Technical specifications.  
 
 ---
 
 ## 📌 Real-World Applications
 
 ### 🔹 Test Documentation
-- Authored structured test plans, test case descriptions, and execution guides in **Confluence** and **Google Docs**.
+- Documented structured test plans, test case descriptions, and test execution guides in **Confluence** and **Google Docs**.
 - Created documentation templates used for regression cycles, device compatibility tracking, and exploratory testing sessions.
 - Maintained a centralized knowledge base for both technical and non-technical team members.
 
@@ -40,12 +39,12 @@ This section shows how I leverage documentation tools to create high-quality, st
 - Wrote easy-to-follow internal guides covering:
   - Test environment setup  
   - Mobile and OTT device configuration  
-  - Emulator/simulator installation steps  
-  - Automation tool integration (Appium, Playwright)
+  - Emulator/simulator installation steps
+  - Appium setup instructions.
 
 ### 🔹 Reporting & Communication
-- Delivered QA status updates via Word/PDF documents during sprint demos and release checkpoints.
-- Tracked bugs in spreadsheets during UAT for rapid triage and fix validation.
+- Delivered weekly QA status updates via Word/PDF documents.
+- Tracked bugs in spreadsheets during UAT to expedite triage and validation.
 - Compiled QA onboarding documentation and contributed to team Confluence spaces for knowledge retention.
 
 ---
