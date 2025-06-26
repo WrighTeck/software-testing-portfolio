@@ -57,7 +57,7 @@ Although I haven’t used Postman professionally, I’ve taught myself through L
 - Postman for sending and validating REST API requests
 - Swagger UI for understanding and testing documented endpoints
 
-**Skills Used:** Postman
+**Tools Used:** Postman
 
 **What I Practice:**
 - Testing `GET`, `POST`, `PUT`, `DELETE` methods
