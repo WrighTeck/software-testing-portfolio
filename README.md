@@ -31,7 +31,7 @@ Located in [`/docs`](https://github.com/WrighTeck/software-testing-portfolio/tre
 - Sample bug report formats
   
 ### Technical Skills in Action
-Located in `docs/technical-skills` (to be added) <br>
+Located in [`docs/technical-skills`](https://github.com/WrighTeck/software-testing-portfolio/tree/main/docs/technical-skills) <br>
 Explore how I apply key QA and technical writing skills across real-world projects:
 - [AI, Automation & API Tools](./docs/technical-skills/ai-automation-api.md)
 - [Test Management & Bug Tracking](./docs/technical-skills/test-management-bug-tracking.md)
