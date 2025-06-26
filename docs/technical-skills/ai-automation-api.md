@@ -50,7 +50,7 @@ await expect(webviewOption).toBeDisplayed();
 
 ---
 
-## 🔌 API Testing (Self Taught)
+##  API Testing (Self Taught)
 Although I haven’t used Postman professionally, I’ve taught myself through LinkedIn Learning and personal projects.
 
 **Tools Used:**
@@ -73,7 +73,7 @@ Response: JSON with product list and metadata
 
 ---
 
-## 🔄 Version Control & Collaboration
+## Version Control & Collaboration
 I manage my TypeScript-based test automation projects using Git and Bitbucket.
 
 **Common Git Workflow:**
@@ -108,7 +108,7 @@ git pull origin main
 - Merged branches after approval
 - Resolved simple merge conflicts when syncing branches
 
-## 🌐 Test Infrastructure
+## Test Infrastructure
 When applicable, I use **BrowserStack** to execute cross-browser or device-based tests for iOS testing.
 
 **Skills Used:** BrowserStack
