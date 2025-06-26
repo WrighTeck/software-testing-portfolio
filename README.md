@@ -33,7 +33,7 @@ Located in [`/docs`](https://github.com/WrighTeck/software-testing-portfolio/tre
 ### Technical Skills in Action
 Located in [`docs/technical-skills`](https://github.com/WrighTeck/software-testing-portfolio/tree/main/docs/technical-skills) <br>
 Explore how I apply key QA and technical writing skills across real-world projects:
-- [AI, Automation & API Tools](./docs/technical-skills/ai-automation-api.md)
+- [AI, Automation & API Tools](./docs/technical-skills/ai-automation-api.md) 
 - [Test Management & Bug Tracking](./docs/technical-skills/test-management-bug-tracking.md)
 - [Documentation Tools](./docs/technical-skills/documentation-tools.md)
 - [Cross-Browser Testing](./docs/technical-skills/cross-browser-testing.md)
