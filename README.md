@@ -37,7 +37,7 @@ Explore how I apply key QA and technical writing skills across real-world projec
 - [Test Management & Bug Tracking](./docs/technical-skills/test-management-bug-tracking.md)
 - [Documentation Tools](./docs/technical-skills/documentation-tools.md)
 - [Cross-Browser Testing](./docs/technical-skills/cross-browser-testing.md)
-- [Programming Languages & IDEs]([./docs/technical-skills/programming-languages-tools.md))
+- [Programming Languages & IDEs](./docs/technical-skills/programming-languages-tools.md))
 - [Devices & Platforms](./docs/technical-skills/devices-platforms.md)
 - [Testing Methodologies](./docs/technical-skills/testing-methodologies.md)
 - [Analytics & Databases](./docs/technical-skills/analytics-databases.md)
