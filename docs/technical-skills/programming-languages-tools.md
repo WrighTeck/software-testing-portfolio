@@ -8,7 +8,7 @@ This section highlights how I apply programming languages and developer tools in
 
 ### 🔹 JavaScript
 - Used for writing UI validation test scripts and test automation (e.g., with WebdriverIO and Playwright).
-- Familiar browser debugging using Chrome DevTools and JavaScript console output.
+- Familiar with browser debugging using Chrome DevTools and JavaScript console output.
 - Applied to validate front-end logic, DOM interactions, and third-party integrations in OTT and web apps.
 
 ### 🔹 TypeScript
