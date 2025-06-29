@@ -4,18 +4,56 @@ This section outlines the industries I've contributed to as a QA Engineer and Te
 
 ---
 
-## ☁️ SaaS (Software as a Service)
+# 💼 SaaS & CRM Platform Testing Experience
 
-### Overview
-In fast-paced SaaS environments, I supported product teams by testing scalable mobile and web applications with frequent release cycles.
+This section highlights my QA contributions across custom-built SaaS platforms and CRM tools used by sales, support, and customer-facing teams. My experience includes functionality testing, cross-browser/device validation, and mobile/web compatibility checks.
 
-### Key Contributions
-- Developed modular and reusable test cases to align with continuous deployment.
-- Collaborated with DevOps and product teams to test feature, functionality, and subscription models.
-- Developed test documentation and knowledge bases for end users and internal teams.
+---
 
-### Tools Used
- JIRA, Confluence
+## 📍 Mass Notification SaaS & CRM Testing
+
+**Industry:** Communications / Customer Outreach  
+**Platform Type:** SaaS-based mass notification system  
+**Testing Scope:** Web & Mobile apps, Custom CRM for Sales & Support Teams
+
+### 🔍 Key Responsibilities
+- Tested a **mass communication platform** enabling schools, churches, and sports teams to send voice and text messages to large groups of contacts.
+- Performed **cross-browser testing** across Chrome, Firefox, Safari, and Edge to ensure consistent performance.
+- Executed **cross-device testing** on Android and iOS devices for mobile responsiveness and app functionality.
+- Validated **custom-built CRM features** used internally by sales and customer support teams.
+- Conducted regression, UI/UX, and integration testing to ensure end-to-end workflow coverage.
+
+---
+
+## 📍 Digital Estate & Financial Planning SaaS Testing
+
+**Industry:** LegalTech / FinTech  
+**Platform Type:** SaaS solution for wills, insurance, and digital legacy management  
+**Testing Scope:** Mobile & Web, Document Vault, Financial Tools
+
+### 🔍 Key Responsibilities
+- QA testing of a **SaaS platform** used for estate and financial planning, allowing users to securely store wills, insurance documents, and personal assets.
+- Performed **cross-browser and cross-device testing** to verify responsive design and consistent functionality.
+- Validated file uploads, digital forms, and permission-based sharing systems within user vaults.
+- Conducted data integrity checks to ensure sensitive documents were safely stored and retrievable across web and mobile interfaces.
+
+---
+
+## 🧰 Tools & Environments Used
+
+- **Browsers:** Chrome, Safari, Firefox, Edge, Opera  
+- **Devices:** iPhone, iPad, Android smartphones  
+- **Testing Types:** Functional, Regression, UI/UX, Cross-Browser, Cross-Device  
+- **CRM Testing:** Custom workflows, ticketing, dashboard metrics, lead/contact management  
+- **Platforms:** Proprietary in-house SaaS, secure cloud-based systems  
+
+---
+
+## ✅ Key Outcomes
+
+- Improved product reliability across modern browsers and mobile devices.
+- Reduced critical issues during releases by identifying CRM-related defects early.
+- Strengthened user trust by validating features tied to sensitive personal and financial data.
 
 ---
 
