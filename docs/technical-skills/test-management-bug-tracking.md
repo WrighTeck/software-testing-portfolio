@@ -28,8 +28,8 @@ This section highlights how I apply my skills in test management and defect trac
 
 ### Writing and Managing Test Cases
 - Created comprehensive test plans and test suites for **OTT platforms**, **mobile apps**, and **web applications**.
-- Grouped test cases by feature, release cycle, and priority for easier regression and sanity runs.
-- Used TestRail and Xray to track pass/fail metrics, coverage, and history of test executions.
+- Grouped test cases by feature, release cycle, and priority for easier regression, smoke and sanity test runs.
+- Used TestRail, Zephyr Squad, and Xray to track pass/fail metrics, test coverage, document and history of test executions.
 
 ### Defect Reporting & Triage
 - Logged clear, concise, and reproducible defects using JIRA, adhering to severity and priority guidelines.
