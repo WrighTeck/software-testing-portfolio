@@ -1,4 +1,4 @@
-# 🌐 Industry Experience
+# Industry Experience
 
 This section outlines the industries I've contributed to as a QA Engineer and Technical Writer, with an emphasis on domain-specific testing, compliance, and collaboration with cross-functional teams.
 
@@ -16,7 +16,7 @@ This section highlights my QA contributions across custom-built SaaS platforms a
 **Platform Type:** SaaS-based mass notification system  
 **Testing Scope:** Web & Mobile apps, Custom CRM for Sales & Support Teams
 
-### 🔍 Key Responsibilities
+### Key Responsibilities
 - Tested a **mass communication platform** enabling schools, churches, and sports teams to send voice and text messages to large groups of contacts.
 - Performed **cross-browser testing** across Chrome, Firefox, Safari, and Edge to ensure consistent performance.
 - Executed **cross-device testing** on Android and iOS devices for mobile responsiveness and app functionality.
@@ -25,13 +25,13 @@ This section highlights my QA contributions across custom-built SaaS platforms a
 
 ---
 
-### 📍 Digital Estate & Financial Planning SaaS Testing
+### Digital Estate & Financial Planning SaaS Testing
 
 **Industry:** LegalTech / FinTech  
 **Platform Type:** SaaS solution for wills, insurance, and digital legacy management  
 **Testing Scope:** Mobile & Web, Document Vault, Financial Tools
 
-### 🔍 Key Responsibilities
+### Key Responsibilities
 - QA testing of a **SaaS platform** used for estate and financial planning, allowing users to securely store wills, insurance documents, and personal assets.
 - Performed **cross-browser and cross-device testing** to verify responsive design and consistent functionality.
 - Validated file uploads, digital forms, and permission-based sharing systems within user vaults.
@@ -39,7 +39,7 @@ This section highlights my QA contributions across custom-built SaaS platforms a
 
 ---
 
-### 🧰 Tools & Environments Used
+### Tools & Environments Used
 
 - **Browsers:** Chrome, Safari, Firefox, Edge, Opera  
 - **Devices:** iPhone, iPad, Android smartphones  
@@ -57,7 +57,7 @@ This section highlights my QA contributions across custom-built SaaS platforms a
 
 ---
 
-## 📺 Broadcast Media & OTT Streaming
+## Broadcast Media & OTT Streaming
 
 ### Overview
 I conducted thorough testing on OTT platforms across multiple streaming devices (Roku, FireTV, AndroidTV, Apple TV, Smart TVs) and mobile platforms, with a strong focus on ad validation, UI consistency, and playback quality.
@@ -74,7 +74,7 @@ Charles Proxy, Figma, JIRA, TestRail, Android Studio, Xcode, OTT device testing 
 
 ---
 
-## 💻 Software Development & Custom Applications
+## Software Development & Custom Applications
 
 ### Overview
 Supported web and mobile application teams by testing custom-built solutions ranging from internal admin tools to customer-facing platforms.
@@ -90,7 +90,7 @@ Supported web and mobile application teams by testing custom-built solutions ran
 TestRail, Zephyr Squad, JIRA, GitHub, Chrome DevTools, BrowserStack, Markdown
 
 ---
-## ✈️ Aerospace & Aviation Software
+##  Aerospace & Aviation Software
 
 ### Overview
 Tested desktop software used for **airplane parts allocation**, ensuring accuracy and compliance with industry standards for parts inventory, maintenance scheduling, and logistics planning.
@@ -108,7 +108,7 @@ Windows Desktop Software, Bugzilla, SQL, Remote Desktop, JCL, Microsoft Excel, M
 
 ---
 
-## 🎯 Summary of Industries
+## Summary of Industries
 
 | Industry             | Primary Focus                              | QA Areas Covered                                      |
 |----------------------|--------------------------------------------|--------------------------------------------------------|
