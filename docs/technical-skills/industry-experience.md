@@ -4,13 +4,13 @@ This section outlines the industries I've contributed to as a QA Engineer and Te
 
 ---
 
-# 💼 SaaS & CRM Platform Testing Experience
+## SaaS & CRM Platform Testing Experience
 
 This section highlights my QA contributions across custom-built SaaS platforms and CRM tools used by sales, support, and customer-facing teams. My experience includes functionality testing, cross-browser/device validation, and mobile/web compatibility checks.
 
 ---
 
-## 📍 Mass Notification SaaS & CRM Testing
+### Mass Notification SaaS & CRM Testing
 
 **Industry:** Communications / Customer Outreach  
 **Platform Type:** SaaS-based mass notification system  
@@ -25,7 +25,7 @@ This section highlights my QA contributions across custom-built SaaS platforms a
 
 ---
 
-## 📍 Digital Estate & Financial Planning SaaS Testing
+### 📍 Digital Estate & Financial Planning SaaS Testing
 
 **Industry:** LegalTech / FinTech  
 **Platform Type:** SaaS solution for wills, insurance, and digital legacy management  
@@ -39,7 +39,7 @@ This section highlights my QA contributions across custom-built SaaS platforms a
 
 ---
 
-## 🧰 Tools & Environments Used
+### 🧰 Tools & Environments Used
 
 - **Browsers:** Chrome, Safari, Firefox, Edge, Opera  
 - **Devices:** iPhone, iPad, Android smartphones  
@@ -49,7 +49,7 @@ This section highlights my QA contributions across custom-built SaaS platforms a
 
 ---
 
-## ✅ Key Outcomes
+### ✅ Key Outcomes
 
 - Improved product reliability across modern browsers and mobile devices.
 - Reduced critical issues during releases by identifying CRM-related defects early.
