@@ -72,7 +72,7 @@ JavaScript, TypeScript, SQL, Eclipse, Visual Studio Code, IntelliJ, Brackets
 BrowserStack, AWS, Firebase, Datadog, Charles Proxy, Cloudwatch, Browser Dev Tools
 
 ### Devices & Platforms
-Smart speakers, FireTV, Android, tvOS (AppleTV), iOS, Windows Desktop, Windows OS, MacOS/Linux, Samsung, LG, Roku, Vizio
+Smart speakers(Google Home & Alexa), FireTV, Android, tvOS (AppleTV), iOS, Web, Windows Desktop, Windows OS, MacOS/Linux, Samsung, LG, Roku, Vizio
 
 ### Methodologies
 Agile, Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC)
