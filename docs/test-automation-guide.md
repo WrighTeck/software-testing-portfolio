@@ -1,5 +1,5 @@
 # QA Test Automation User Guide  
-# Test Automation Lifecycle, Frameworks, and CI/CD
+## Test Automation Lifecycle, Frameworks, and CI/CD
 
 ## Overview
 
@@ -185,6 +185,7 @@ Regular maintenance ensures the automation suite remains reliable and aligned wi
 
 Automation frameworks provide the structure used to organize test scripts and supporting components.
 
+### Example Framework Structure
 A typical automation framework may include the following structure:
 tests/
 pages/
@@ -271,7 +272,7 @@ Each code commit may trigger:
 
 Continuous Delivery ensures validated builds are deployed to testing environments.
 
-### Example Pipeline
+### Example CI/CD Pipeline
 Developer commits code
 ↓
 CI pipeline triggers build
