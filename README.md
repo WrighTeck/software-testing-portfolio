@@ -28,6 +28,7 @@ Located in [`/docs`](https://github.com/WrighTeck/software-testing-portfolio/tre
 - Platform-specific testing strategies
 - Device matrix examples for streaming platforms (Roku, Fire TV, AndroidTV, etc.)
 - Ad validation and playback test flows
+- Test Automation User Documention 
 - Sample bug report formats
   
 ### Technical Skills in Action
