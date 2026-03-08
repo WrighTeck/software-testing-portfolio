@@ -64,7 +64,11 @@ brew --version
 ## 4. Install Xcode Command Line Tools
 
 These tools are required for many development and automation dependencies.
+
+Install Xcode:
+```
 xcode-select --install
+```
 
 To verify installation:
 ```bash
@@ -101,7 +105,7 @@ Verify Homebrew Installation:
 Optional: install the code command in Terminal from within VS Code:
 	1.	Open VS Code
 	2.	Press ```Command + Shift + P```
-	3.	Search for: Shell Command: Install 'code' command in PATH
+	3.	Search for: Shell Command: ```Install 'code' command in PATH```
 
 ## 7. Create a Working Directory
 
