@@ -41,7 +41,8 @@ Before installing automation tools, confirm the following:
 
 To check your macOS version:
 
-```bash
+```
+bash
 sw_vers
 ```
 ## 3. Install Homebrew
@@ -51,7 +52,9 @@ Homebrew is a package manager for macOS and is commonly used to install developm
 ### Install Homebrew
 
 Open Terminal and run:
+```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
 
 ### Verify Homebrew Installation
 
@@ -63,14 +66,18 @@ These tools are required for many development and automation dependencies.
 xcode-select --install
 
 To verify installation:
-```xcode-select -p```
+```
+xcode-select -p
+```
 
 ## 5. Install Node.js and npm
 
 Node.js is required for WebdriverIO, Playwright, Appium, and TypeScript.
 
 Install Node.js
-```brew install node```
+```
+brew install node
+```
 
 Verify Node.js and npm
 ```
@@ -82,7 +89,9 @@ npm -v
 Visual Studio Code is a lightweight IDE commonly used for test automation.
 
 Install via Homebrew
-```brew install --cask visual-studio-code```
+```
+brew install --cask visual-studio-code
+```
 
 Verify
 
@@ -90,7 +99,7 @@ Open VS Code and confirm it launches correctly.
 
 Optional: install the code command in Terminal from within VS Code:
 	1.	Open VS Code
-	2.	Press Command + Shift + P
+	2.	Press ```Command + Shift + P```
 	3.	Search for: Shell Command: Install 'code' command in PATH
 
 ## 7. Create a Working Directory
@@ -106,15 +115,21 @@ cd qa-automation
 TypeScript improves code structure and is commonly used with WebdriverIO and Playwright.
 
 Install TypeScript Globally
-```npm install -g typescript```
+```
+npm install -g typescript
+```
 
 Verify TypeScript
-```tsc -v```
+```
+tsc -v
+```
 
 ## 9. Set Up a Node Project
 
 Initialize a Node project before installing framework dependencies.
-```npm init -y```
+```
+npm init -y
+```
 
 This creates a package.json file for managing dependencies.
 
@@ -125,7 +140,9 @@ WebdriverIO is used for browser and mobile automation.
 Create a WebdriverIO Project
 
 Inside your project folder, run:
-```npm init wdio@latest . ```
+```
+npm init wdio@latest .
+```
 
 During setup, select options such as:
 	•	TypeScript
@@ -146,7 +163,9 @@ Check that files such as the following are created:
 Playwright is used for modern browser automation.
 
 Install Playwright:
-```npm init playwright@latest```
+```
+npm init playwright@latest
+```
 
 Follow the setup prompts
 
@@ -156,37 +175,51 @@ Recommended selections:
 	•	Install browsers automatically
 
 Verify Playwright Installation:
-```npx playwright test --version```
+```
+npx playwright test --version
+```
 
 ## 12. Install Appium
 
 Appium is used for Android and iOS mobile automation.
 
 Install Appium Globally:
-```npm install -g appium```
+```
+npm install -g appium
+```
 
 Verify Appium
-```appium -v```
+```
+appium -v
+```
 
 ## 13. Install Appium Doctor
 
 Appium Doctor helps verify mobile automation dependencies.
-```npm install -g appium-doctor```
+```
+npm install -g appium-doctor
+```
 
 Verify Appium Environment
 
 For Android:
-```appium-doctor --android```
+```
+appium-doctor --android
+```
 
 For iOS:
-```appium-doctor --ios```
+```
+appium-doctor --ios
+```
 
 ## 14. Android Setup for Appium
 
 To automate Android apps, install Android Studio.
 
 Install Android Studio:
-```brew install --cask android-studio```
+```
+brew install --cask android-studio
+```
 
 After installation:
 	1.	Open Android Studio
@@ -196,7 +229,9 @@ After installation:
 	5.	Accept required licenses
 
 Verify adb:
-```adb version```
+```
+adb version
+```
 If adb is not found, add Android SDK platform-tools to your PATH.
 
 Example:
@@ -213,6 +248,8 @@ Add these lines to your shell profile:
 ```
 
 Then reload:
-```source ~/.zshrc```
+```
+source ~/.zshrc
+```
 
 
