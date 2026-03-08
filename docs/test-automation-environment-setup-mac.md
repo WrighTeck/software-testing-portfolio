@@ -41,8 +41,7 @@ Before installing automation tools, confirm the following:
 
 To check your macOS version:
 
-```
-bash
+```bash
 sw_vers
 ```
 ## 3. Install Homebrew
@@ -52,13 +51,15 @@ Homebrew is a package manager for macOS and is commonly used to install developm
 ### Install Homebrew
 
 Open Terminal and run:
-```
+```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
 ### Verify Homebrew Installation
 
-```brew --version```
+```bash
+brew --version
+```
 
 ## 4. Install Xcode Command Line Tools
 
@@ -66,7 +67,7 @@ These tools are required for many development and automation dependencies.
 xcode-select --install
 
 To verify installation:
-```
+```bash
 xcode-select -p
 ```
 
@@ -75,12 +76,12 @@ xcode-select -p
 Node.js is required for WebdriverIO, Playwright, Appium, and TypeScript.
 
 Install Node.js
-```
+```bash
 brew install node
 ```
 
 Verify Node.js and npm
-```
+```bash
 node -v
 npm -v
 ```
@@ -89,7 +90,7 @@ npm -v
 Visual Studio Code is a lightweight IDE commonly used for test automation.
 
 Install via Homebrew
-```
+```bash
 brew install --cask visual-studio-code
 ```
 
@@ -105,7 +106,7 @@ Optional: install the code command in Terminal from within VS Code:
 ## 7. Create a Working Directory
 
 Create a folder for your automation projects.
-```
+```bash
 mkdir qa-automation
 cd qa-automation
 ```
@@ -115,19 +116,19 @@ cd qa-automation
 TypeScript improves code structure and is commonly used with WebdriverIO and Playwright.
 
 Install TypeScript Globally:
-```
+```bash
 npm install -g typescript
 ```
 
 Verify TypeScript:
-```
+```bash
 tsc -v
 ```
 
 ## 9. Set Up a Node Project
 
 Initialize a Node project before installing framework dependencies.
-```
+```bash
 npm init -y
 ```
 
@@ -140,7 +141,7 @@ WebdriverIO is used for browser and mobile automation.
 ### Create a WebdriverIO Project:
 
 Inside your project folder, run:
-```
+```bash
 npm init wdio@latest .
 ```
 
@@ -163,7 +164,7 @@ Check that files such as the following are created:
 Playwright is used for modern browser automation.
 
 Install Playwright:
-```
+```bash
 npm init playwright@latest
 ```
 
@@ -175,7 +176,7 @@ Recommended selections:
 	•	Install browsers automatically
 
 Verify Playwright Installation:
-```
+```bash
 npx playwright test --version
 ```
 
@@ -184,31 +185,31 @@ npx playwright test --version
 Appium is used for Android and iOS mobile automation.
 
 Install Appium Globally:
-```
+```bash
 npm install -g appium
 ```
 
 Verify Appium:
-```
+```bash
 appium -v
 ```
 
 ## 13. Install Appium Doctor
 
 Appium Doctor helps verify mobile automation dependencies.
-```
+```bash
 npm install -g appium-doctor
 ```
 
 Verify Appium Environment:
 
 For Android:
-```
+```bash
 appium-doctor --android
 ```
 
 For iOS:
-```
+```bash
 appium-doctor --ios
 ```
 
@@ -217,7 +218,7 @@ appium-doctor --ios
 To automate Android apps, install Android Studio.
 
 Install Android Studio:
-```
+```bash
 brew install --cask android-studio
 ```
 
@@ -229,26 +230,26 @@ After installation:
 	5.	Accept required licenses
 
 Verify adb:
-```
+```bash
 adb version
 ```
 If adb is not found, add Android SDK platform-tools to your PATH.
 
 Example:
-```
+```bash
 export ANDROID_HOME=$HOME/Library/Android/sdk
 export PATH=$PATH:$ANDROID_HOME/platform-tools
 export PATH=$PATH:$ANDROID_HOME/emulator
 ```
 
 Add these lines to your shell profile:
-```
+```bash
 	•	~/.zshrc for zsh
 	•	~/.bash_profile for bash
 ```
 
 Then reload:
-```
+```bash
 source ~/.zshrc
 ```
 
@@ -260,7 +261,7 @@ Install Xcode
 - Install Xcode from the App Store.
 
 After installation, verify:
-```
+```bash
 xcodebuild -version
 ```
 Install iOS dependencies
@@ -272,7 +273,7 @@ Appium may require:
 	•	Developer signing setup
 
 Run:
-```
+```bash
 appium-doctor --ios
 ```
 Note: iOS automation requires macOS and works best with a valid Apple development setup.
@@ -282,7 +283,7 @@ Note: iOS automation requires macOS and works best with a valid Apple developmen
 Postman is used for API testing and request validation.
 
 Install via Homebrew:
-```
+```bash
 brew install --cask postman
 ```
 Verify
@@ -309,7 +310,7 @@ Install helpful extensions for QA automation:
 ## 18. Verify Your Full Automation Environment
 
 Run the following commands to confirm your setup:
-```git
+```bash
 node -v
 npm -v
 tsc -v
@@ -319,7 +320,7 @@ npx playwright --version
 ```
 
 Optional WebdriverIO verification:
-```
+```bash
 npx wdio --version
 ```
 ## 19. Common Setup Issues
@@ -327,11 +328,11 @@ npx wdio --version
 Node command not found
 
 Make sure Node.js is installed correctly:
-```
+```bash
 node -v
 ```
 if you get this error: 
-```
+```bash
 adb command not found
 ```
 - Confirm Android SDK platform-tools are installed and added to PATH.
@@ -339,12 +340,12 @@ adb command not found
 Appium Doctor shows missing dependencies
 
 Install the missing tools and re-run:
-```
+```bash
 appium-doctor --android
 appium-doctor --ios
 ```
 Install browsers manually:
-```
+```bash
 npx playwright install
 ```
 
@@ -373,21 +374,21 @@ xcodebuild -version
 ## 2. Install Xcode Command Line Tools
 
 Command line tools are required for building and running automation dependencies.
-```
+```bash
 xcode-select --install
 ```
 Verify installation:
-```
+```bash
 xcode-select -p
 ```
 Expected output example:
-```
+```bash
 /Applications/Xcode.app/Contents/Developer
 ```
 ## 3. Accept Xcode License
 
 Run the following command:
-```
+```bash
 sudo xcodebuild -license accept
 ```
 ## 4. Install iOS Simulators
@@ -407,15 +408,15 @@ Common choices include:
 ## 5. Install Appium XCUITest Driver
 
 Install the Appium XCUITest driver required for iOS automation.
-```
+```bash
 appium driver install xcuitest
 ```
 Verify installation:
-```
+```bash
 appium driver list --installed
 ```
 Expected output should include:
-```
+```bash
 xcuitest
 ```
 ## 6. Install WebDriverAgent Dependencies
@@ -423,17 +424,17 @@ xcuitest
 WebDriverAgent is the iOS automation framework used by Appium.
 
 Navigate to the Appium XCUITest driver folder:
-```
+```bash
 cd ~/.appium/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent
 ```
 Install dependencies:
-```
+```bash
 npm install
 ```
 ## 7. Open WebDriverAgent in Xcode
 
 Open the WebDriverAgent project:
-```
+```bash
 open WebDriverAgent.xcodeproj
 ```
 Inside Xcode:
@@ -447,7 +448,7 @@ This step ensures WebDriverAgent builds correctly.
 ## 8. Verify iOS Devices and Simulators
 
 List available devices:
-```
+```bash
 xcrun simctl list devices
 ```
 Example output:
