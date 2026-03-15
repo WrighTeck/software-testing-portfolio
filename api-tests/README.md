@@ -14,11 +14,16 @@ POST /_functions/contacts
 
 ## API Testing
 
-The repository includes API testing examples for a custom backend API built for WrighTeck.com.
+This repository includes API testing examples located in `/api-tests`.
 
-Location:
+The API tests demonstrate:
 
-/api-tests
+• Endpoint validation  
+• Request and response verification  
+• Positive and negative API scenarios  
+• Backend data verification
+
+The APIs tested were created using Wix Velo HTTP functions and validated using Postman.
 
 ## Postman Collection
 
