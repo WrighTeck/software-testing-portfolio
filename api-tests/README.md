@@ -11,3 +11,17 @@ GET /_functions/guides
 GET /_functions/articles  
 
 POST /_functions/contacts
+
+## API Testing
+
+The repository includes API testing examples for a custom backend API built for WrighTeck.com.
+
+Location:
+
+/api-tests
+
+Includes:
+
+• API test cases  
+• Postman testing workflow  
+• Request/response validation examples
