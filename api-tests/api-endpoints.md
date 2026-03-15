@@ -18,8 +18,6 @@ Expected Response:
   "api": "WrighTeck API",
   "message": "API is running"
 }
-
----
 ```
 ## Services Endpoint
 ```json
