@@ -12,7 +12,7 @@ Endpoint: /_functions/contacts
 Request Body:
 ```json
 {
-  "name": "Jean Wright",
+  "name": "Tinkerbell Wright",
   "email": "test@example.com",
   "subject": "Guide Question",
   "message": "Testing the WrighTeck contact API."
@@ -30,7 +30,7 @@ Record inserted into Contacts collection.
 Request:
 ```json
 {
-  "name": "Jean Wright",
+  "name": "Tinkerbell Wright",
   "subject": "Guide Question",
   "message": "Testing validation."
 }
