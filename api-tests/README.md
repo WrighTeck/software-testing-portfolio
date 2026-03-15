@@ -20,6 +20,14 @@ Location:
 
 /api-tests
 
+## Postman Collection
+
+The Postman collection used to test the WrighTeck API is available here:
+
+/api-tests/postman/wrighteck-api.postman_collection.json
+
+This collection can be imported directly into Postman to execute the API tests.
+
 Includes:
 
 • API test cases  
