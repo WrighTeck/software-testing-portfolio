@@ -14,6 +14,7 @@ https://www.wrighteck.com/_functions/contacts
 Content-Type: application/json
 
 4. Add request body
+```json
 
 {
   "name": "Tinkerbell Wright",
@@ -21,7 +22,7 @@ Content-Type: application/json
   "subject": "Guide Question",
   "message": "Testing the WrighTeck contact API."
 }
-
+```
 5. Send request.
 
 ## Expected Result
