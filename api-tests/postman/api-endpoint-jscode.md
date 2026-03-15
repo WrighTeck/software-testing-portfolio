@@ -1,7 +1,9 @@
 
-This endpoint accepts JSON contact submissions, validates required fields, 
-inserts the data into the Wix CMS Contacts collection, and returns a structured JSON response.
+## Contact Submission Endpoint
 
+This endpoint accepts JSON contact submissions, validates required fields, inserts the data into the **Wix CMS Contacts collection**, and returns a structured JSON response.
+
+### Endpoint
 ```javascript
 // backend/http-functions.js
 
