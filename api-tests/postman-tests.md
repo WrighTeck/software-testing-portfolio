@@ -30,10 +30,11 @@ Content-Type: application/json
 Status Code: 201 Created
 
 Response:
+```json
 
 {
   "success": true,
   "message": "Contact message submitted successfully."
 }
-
+```
 Verify record appears in Wix CMS Contacts collection.
