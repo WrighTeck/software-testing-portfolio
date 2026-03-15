@@ -73,7 +73,7 @@ Used to submit inquiries through the API.
 Example Request:
 ```json
 {
-  "name": "Jean Wright",
+  "name": "Tinkerbell Wright",
   "email": "test@example.com",
   "subject": "Guide Question",
   "message": "Testing the WrighTeck contact API."
