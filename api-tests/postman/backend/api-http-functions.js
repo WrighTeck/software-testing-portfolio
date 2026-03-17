@@ -1,6 +1,4 @@
-###
 
-```javascript
 import { ok } from 'wix-http-functions';
 import { getServicesData } from 'backend/services';
 import { getCheatSheetsData } from 'backend/cheatSheets';
@@ -90,4 +88,3 @@ export function get_articles(request) {
     });
   }
 }
-```
