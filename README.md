@@ -33,7 +33,14 @@ Located in [`/docs`](https://github.com/WrighTeck/software-testing-portfolio/tre
 - Sample bug report formats
 
 ### API Testing and Endpoints
-- Located in /[`api-tests`](
+Located in /[`api-tests`](https://github.com/WrighTeck/software-testing-portfolio/tree/main/api-tests):
+- Custom API built using Wix Velo HTTP functions
+- GET and POST endpoint implementations for WrighTeck.com
+- Postman collection for API testing and validation
+- API test cases covering positive and negative scenarios
+- JSON request and response validation examples
+- Backend data verification using Wix CMS (Contacts collection)
+- Modular backend structure with separated endpoint logic
 
 ### Technical Skills in Action
 Located in [`docs/technical-skills`](./docs/technical-skills) <br>
