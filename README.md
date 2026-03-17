@@ -35,7 +35,7 @@ Located in [`/docs`](https://github.com/WrighTeck/software-testing-portfolio/tre
 ### API Testing and Endpoints
 Located in /[`api-tests`](https://github.com/WrighTeck/software-testing-portfolio/tree/main/api-tests):
 - Custom API built using Wix Velo HTTP functions
-- GET and POST endpoint implementations for WrighTeck.com
+- GET and POST endpoints for WrighTeck.com
 - Postman collection for API testing and validation
 - API test cases covering positive and negative scenarios
 - JSON request and response validation examples
