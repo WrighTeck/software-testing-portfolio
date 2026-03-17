@@ -1,4 +1,4 @@
-// backend/contact.js
+// backend/contacts.js
 import wixData from 'wix-data';
 
 export async function saveContactMessage(data) {
