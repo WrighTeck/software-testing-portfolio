@@ -1,7 +1,9 @@
 // backend/cheatSheets.js
-
+// Backend data source for the Cheat Sheets endpoint.
+// Returns a list of free cheat sheets available on WrighTeck.
 export function getCheatSheetsData() {
   return {
+// Array of downloadable cheat sheets.
     cheatSheets: [
       {
         id: 1,
@@ -9,6 +11,7 @@ export function getCheatSheetsData() {
         category: "Software Testing",
         type: "Free"
       },
+  
       {
         id: 2,
         title: "AI & Automation Cheat Sheet",
