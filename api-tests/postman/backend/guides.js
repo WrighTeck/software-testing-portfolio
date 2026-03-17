@@ -1,7 +1,9 @@
 // backend/guides.js
-
+// Returns paid and free technology guides with pricing,
+// format, URL, and availability details.
 export function getGuidesData() {
   return {
+ // Array of WrighTeck tech guides.
     guides: [
       {
         id: 1,
