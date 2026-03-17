@@ -31,7 +31,10 @@ Located in [`/docs`](https://github.com/WrighTeck/software-testing-portfolio/tre
 - Test Automation User Guide
 - Manual Testing User Guide
 - Sample bug report formats
-  
+
+### API Testing and Endpoints
+- Located in /[`api-tests`](
+
 ### Technical Skills in Action
 Located in [`docs/technical-skills`](./docs/technical-skills) <br>
 Explore how I apply key QA and technical writing skills across real-world projects:
