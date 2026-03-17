@@ -1,7 +1,9 @@
 // backend/articles.js
-
+// Returns article metadata used for the Tech Articles section,
+// including title, category, summary, source, and publish date.
 export function getArticlesData() {
   return {
+// Array of article records currently used by the API.
     articles: [
       {
         id: 1,
