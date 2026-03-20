@@ -5,7 +5,7 @@ Welcome to my Software Testing Portfolio! This portfolio shows hands-on experien
 	•	Real-world manual test cases and bug reports
 	•	Sample Playwright and Appium automation tests for WrighTeck.com
 	•	End-to-end QA workflows for OTT platforms, web applications, and mobile devices
-	•	Testing templates, documentation samples, and technical skills, located in /docs/technical-skills (coming soon)
+	•	Testing templates, documentation samples, and technical skills, located in /docs/technical-skills
   
 ## Repo Sections
 
