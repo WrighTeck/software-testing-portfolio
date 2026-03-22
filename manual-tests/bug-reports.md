@@ -17,16 +17,16 @@ This file includes sample bug reports based on issues discovered during manual o
   1. Go to [https://www.wrighteck.com](https://www.wrighteck.com)  
   2. Hover “Teck Education” in the top navigation menu
   3. Observe drop down menu
-  4. Click "Teck Videos" on the drop down menu
+  4. Locate "Teck Videos" on the drop down menu
 - **Expected Result:**  
-   `/teck-videos` page should display a list of embedded Technical Videos  
+   `/teck-videos` menu option is displayed on the drop down menu  
 - **Actual Result:**  
-  Place holder text 'Tech Videos Coming Soon' is displayed.
+  `/teck-videos` menu option is not displayed on the drop down menu.
 - **Screenshot:** _[screenshot attachment]_
 - **Screenrecording:** _[screenrecording attachment]_
 - **Status:** Open  
 - **Reported By:** Jean Wright  
-- **Date:** June 18, 2025  
+- **Date:** Mar 21, 2026
 
 ---
 
