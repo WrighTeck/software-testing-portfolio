@@ -1,5 +1,7 @@
 # Manual QA User Guide  
 ## Manual Testing Lifecycle and QA Processes
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f22235f4-a3fc-42ae-889c-eedd24d1abb3" />
+
 
 ## Overview
 
