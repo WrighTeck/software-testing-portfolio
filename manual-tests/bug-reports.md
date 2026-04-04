@@ -4,7 +4,7 @@ This file includes sample bug reports based on issues discovered during manual o
 
 ---
 
-## 🐞 Bug Report 001: Tech Videos Not Available (Web)
+## 🐞 Bug Report 001: 'Tech Videos' is missing from navigation menu (Web)
 
 - **Bug ID:** BUG-WEB-001  
 - **Title:** Videos are missing from Tech Videos page 
