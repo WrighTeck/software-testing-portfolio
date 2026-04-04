@@ -30,7 +30,7 @@ This file includes sample bug reports based on issues discovered during manual o
 
 ---
 
-## 🐞 Bug Report 002: Ad Fails to Play on Roku Device
+## 🐞 Bug Report 002: Ad Fails to Play on Roku Device (OTT/Streaming)
 
 - **Bug ID:** BUG-OTT-001  
 - **Title:** Mid-roll ad fails to play on Roku app 
@@ -137,7 +137,7 @@ Application closes immediately after tapping Submit.
 
 ---
 
-## Bug Report 006: Playback Freezes After Resuming From Pause (OTT)
+## Bug Report 006: Playback Freezes After Resuming From Pause (OTT/Streaming)
 - Bug ID: BUG-OTT-002
 - Title: Video playback freezes after resuming paused content on streaming device
 - Severity: High
