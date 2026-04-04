@@ -1,4 +1,4 @@
-# Sample Bug Reports – Web, OTT & Mobile QA
+# Sample Bug Reports – Web, Desktop, OTT & Mobile QA
 
 This file includes sample bug reports based on issues discovered during manual or exploratory testing. These are simplified test steps and specifics for reproducing actual results.
 
