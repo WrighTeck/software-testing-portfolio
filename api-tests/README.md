@@ -1,7 +1,9 @@
 # API Tests
 
 This section documents API testing performed using Postman against the WrighTeck API built with Wix Velo HTTP functions.
+
 ![API Tests](apitestpromoimage.jpg)
+
 Endpoints tested include:
 
 GET /_functions/health  
