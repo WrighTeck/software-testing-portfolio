@@ -2,7 +2,7 @@
 
 This section documents API testing performed using Postman against the WrighTeck API built with Wix Velo HTTP functions.
 
-API Tests Overview](assets/apitestpromoimage.jpg)
+[API Tests Overview](assets/apitestpromoimage.jpg)
 
 Endpoints tested include:
 
