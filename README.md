@@ -1,6 +1,8 @@
 # Software Testing Portfolio by Jean E. Wright
 Welcome to my Software Testing Portfolio! This portfolio shows hands-on experience and testing strategies across **OTT, Web, and Mobile Software Testing**, which included both manual and automated testing, along with documentation.
 
+![Software Testing Portfolio](https://raw.githubusercontent.com/WrighTeck/software-testing-portfolio/main/software-test-portfolio.jpg)
+
  **What You'll Find Here:**
 	•	Real-world manual test cases and bug reports
 	•	Sample Playwright and Appium automation tests for WrighTeck.com
