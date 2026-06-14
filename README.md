@@ -14,8 +14,7 @@ Welcome to my Software Testing Portfolio! This portfolio shows hands-on experien
 ### QA & Software Testing
 Located in [`/manual-tests`](https://github.com/WrighTeck/software-testing-portfolio/tree/main/manual-tests):
 
-Manual QA examples focused on functional testing, regression testing, exploratory testing, UAT, UI/UX validation, and defect reporting.
-
+Manual testing, API validation, defect management, exploratory testing, UAT, performance testing, and more.
 Includes:
 - Functional test cases
 - UI/UX test cases
@@ -28,7 +27,7 @@ Includes:
 ### Automation Tools & Tests
 Located in [`/automation-tests`](https://github.com/WrighTeck/software-testing-portfolio/tree/main/automation-tests):
 
-This section contains automation testing examples for web and mobile applications using Playwright, Appium, and TypeScript.
+Appium, Playwright, WebdriverIO, BrowserStack, Postman, SQL, Datadog, Charles Proxy, and more.
 
 Includes:
 - Playwright web automation examples
@@ -45,7 +44,7 @@ Includes:
 ### OTT & Mobile Platforms
 Located in [`/docs`](https://github.com/WrighTeck/software-testing-portfolio/tree/main/docs):
 
-This section showcases testing approaches and validation strategies for OTT, streaming, mobile, and connected TV platforms.
+Roku, Fire TV, Apple TV, Android TV, Samsung, LG, Vizio, iOS, Android, Web, and Desktop testing.
 
 Includes:
 - Platform-specific testing strategies
@@ -55,20 +54,13 @@ Includes:
 - Navigation and user experience testing
 - OTT test scenarios across Roku, Fire TV, Apple TV, Android TV, Samsung, LG, and Vizio devices
 
-### API-Tests
-Located in /[`api-tests`](https://github.com/WrighTeck/software-testing-portfolio/tree/main/api-tests):
-- Custom API built using Wix Velo HTTP functions
-- GET and POST endpoints for WrighTeck.com
-- Postman collection for API testing and validation
-- API test cases covering positive and negative scenarios
-- JSON request and response validation examples
-- Backend data verification using Wix CMS (Contacts collection)
-- Modular backend structure with separated endpoint logic
+#### Featured API Testing Project
+[API Testing Portfolio](./qa-software-testing/api-testing)
 
 ### Test Management & Collaboration
 Located in [`/test-management`](https://github.com/WrighTeck/software-testing-portfolio/tree/main/test-management):
 
-Examples of test management, defect tracking, documentation, and Agile collaboration processes used throughout the software testing lifecycle.
+JIRA, Xray, TestRail, Qmetry, Agile workflows, stakeholder communication, and collaboration.
 
 Includes:
 - JIRA defect management workflows
@@ -80,28 +72,22 @@ Includes:
 - Agile methodologies and team collaboration processes
 
 
-### Technical Skills
-Located in [`docs/technical-skills`](./docs/technical-skills) <br>
-Explore how I apply key QA and technical writing skills across real-world projects:
-- [AI, Automation & API Tools](./docs/technical-skills/ai-automation-api.md) 
-- [Test Management & Bug Tracking](./docs/technical-skills/test-management-bug-tracking.md)
-- [Documentation Tools](./docs/technical-skills/documentation-tools.md)
-- [Cross-Browser Testing](./docs/technical-skills/cross-browser-testing.md)
-- [Programming Languages & IDEs](./docs/technical-skills/programming-languages-tools.md)
-- [Devices & Platforms](./docs/technical-skills/devices-platforms.md)
-- [Testing Methodologies](./docs/technical-skills/testing-methodologies.md)
-- [Analytics & Databases](./docs/technical-skills/analytics-databases.md)
 
-![Playwright](https://img.shields.io/badge/Playwright-E43267?logo=playwright&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-0A0A0A?logo=appium&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
+### Technical Skills
+Located in [`Documentation/technical-skills`](./Documentation/technical-skills)
+- [AI, Automation & API Tools](./Documentation/technical-skills/ai-automation-api.md)
+- [Test Management & Bug Tracking](./Documentation/technical-skills/test-management-bug-tracking.md)
+- [Documentation Tools](./Documentation/technical-skills/documentation-tools.md)
+- [Cross-Browser Testing](./Documentation/technical-skills/cross-browser-testing.md)
+- [Programming Languages & IDEs](./Documentation/technical-skills/programming-languages-tools.md)
+- [Devices & Platforms](./Documentation/technical-skills/devices-platforms.md)
+- [Testing Methodologies](./Documentation/technical-skills/testing-methodologies.md)
+- [Analytics & Databases](./Documentation/technical-skills/analytics-databases.md)
 
 ### Technical Documentation
 Located in [`/documentation`](./documentation)
 
-Examples of QA and technical documentation created to support software testing, user education, and team collaboration.
+Test plans, test cases, user guides, technical specifications, API documentation, and knowledge base content.
 
 Includes:
 - Manual Testing Guide
