@@ -11,13 +11,13 @@ Welcome to my Software Testing Portfolio! This portfolio shows hands-on experien
   
 ## Repo Sections
 
-### Manual Testing
+### QA & Software Testing
 Located in [`/manual-tests`](https://github.com/WrighTeck/software-testing-portfolio/tree/main/manual-tests):
 - Functional & UI test cases
 - Sample bug reports
 - QA checklists for OTT, mobile, and web platforms
 
-### Automation Testing
+### Automation Tools & Tests
 Located in [`/automation-tests`](https://github.com/WrighTeck/software-testing-portfolio/tree/main/automation-tests):
 - Playwright, Appium + TypeScript test examples
 - Playwright tests written against [https://www.wrighteck.com](https://www.wrighteck.com)
@@ -25,7 +25,7 @@ Located in [`/automation-tests`](https://github.com/WrighTeck/software-testing-p
 - Appium tests for iOS written against [UI Catalog](https://github.com/appium/ios-uicatalog)  
 - Automation examples applicable to web and mobile views
 
-### OTT, Web, Automation and Mobile QA Workflows
+### OTT & Mobile Platforms
 Located in [`/docs`](https://github.com/WrighTeck/software-testing-portfolio/tree/main/docs):
 - Platform-specific testing strategies
 - Device matrix examples for streaming platforms (Roku, Fire TV, AndroidTV, etc.)
@@ -34,7 +34,7 @@ Located in [`/docs`](https://github.com/WrighTeck/software-testing-portfolio/tre
 - Manual Testing User Guide
 - Sample bug report formats
 
-### API Testing and Endpoints
+### Test Management
 Located in /[`api-tests`](https://github.com/WrighTeck/software-testing-portfolio/tree/main/api-tests):
 - Custom API built using Wix Velo HTTP functions
 - GET and POST endpoints for WrighTeck.com
@@ -44,7 +44,7 @@ Located in /[`api-tests`](https://github.com/WrighTeck/software-testing-portfoli
 - Backend data verification using Wix CMS (Contacts collection)
 - Modular backend structure with separated endpoint logic
 
-### Technical Skills in Action
+### Documentation
 Located in [`docs/technical-skills`](./docs/technical-skills) <br>
 Explore how I apply key QA and technical writing skills across real-world projects:
 - [AI, Automation & API Tools](./docs/technical-skills/ai-automation-api.md) 
