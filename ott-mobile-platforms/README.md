@@ -1,1 +1,3 @@
+# OTT, Mobile & Device Platforms
+
 This section showcases cross-platform testing experience across OTT streaming devices, mobile applications, web applications, desktop software, and SaaS platforms. It demonstrates platform-specific testing approaches, device compatibility validation, user experience verification, and quality assurance practices for Roku, Fire TV, Apple TV/tvOS, Android TV, Samsung, LG, Vizio, iOS, Android, Web, Desktop, and SaaS environments.
