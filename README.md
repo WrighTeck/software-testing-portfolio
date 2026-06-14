@@ -117,10 +117,10 @@ Includes:
 ## Technical Skills Outline
 
 ### AI, Automation & API Tools
-Generative AI, Prompt Engineering (ChatGPT), Appium, Appium Inspector, WebdriverIO, Cucumber BDD, Postman, BrowserStack
+Generative AI, Prompt Engineering (ChatGPT), Appium, Appium Inspector, WebdriverIO, Cucumber BDD, Postman, BrowserStack, Github Copilot, Microsoft Copilot, TypeScript
 
 ### Test Management & Bug Tracking
-TestRail, Xray, Zephyr Squad, Bugzilla, Gherkin, JIRA
+TestRail, Xray, Zephyr Squad, Bugzilla, Gherkin, JIRA, Qmetry, Sharepoint
 
 ### Technical Documentation
 Confluence, Microsoft Office, Google Workspace, Markdown
@@ -138,13 +138,13 @@ JavaScript, TypeScript, SQL, Eclipse, Visual Studio Code, IntelliJ, Brackets
 BrowserStack, AWS, Firebase, Datadog, Charles Proxy, Cloudwatch, Browser Dev Tools
 
 ### Devices & Platforms
-Smart speakers(Google Home & Alexa), FireTV, Android, tvOS (AppleTV), iOS, Web, Windows Desktop, Windows OS, MacOS/Linux, Samsung, LG, Roku, Vizio
+Smart speakers(Google Home & Alexa), FireTV, Android, tvOS (AppleTV), iOS, Web, Windows Desktop, Windows OS, MacOS/Linux, Samsung, LG, Roku, Vizio, Android TV, SaaS Platforms
 
 ### Methodologies
 Agile, Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC)
 
 ### Testing Methods
-Functional, Navigational, BVT, UAT, Usability, Regression, Smoke, Performance
+Functional, Navigational, BVT, UAT, Usability, Regression, Smoke, Performance, Exploratory, Cross-Platform, UI/UX, API Validation, Data Validation, Device Testing, Root Cause Analysis, Defect Management
 
 ### Backend & Testing Tools
 Android Studio, Telnet, CLI, Xcode, Roku Deep Linking, Firebase, Comscore, Wireshark, AWS (S3 Config), Bitbucket, Git, GitHub
