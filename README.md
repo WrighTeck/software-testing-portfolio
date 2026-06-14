@@ -13,28 +13,49 @@ Welcome to my Software Testing Portfolio! This portfolio shows hands-on experien
 
 ### QA & Software Testing
 Located in [`/manual-tests`](https://github.com/WrighTeck/software-testing-portfolio/tree/main/manual-tests):
-- Functional & UI test cases
+
+Manual QA examples focused on functional testing, regression testing, exploratory testing, UAT, UI/UX validation, and defect reporting.
+
+Includes:
+- Functional test cases
+- UI/UX test cases
+- Regression test examples
+- UAT test scenarios
+- Exploratory testing notes
 - Sample bug reports
-- QA checklists for OTT, mobile, and web platforms
+- QA checklists
 
 ### Automation Tools & Tests
 Located in [`/automation-tests`](https://github.com/WrighTeck/software-testing-portfolio/tree/main/automation-tests):
-- Playwright, Appium + TypeScript test examples
-- Playwright tests written against [https://www.wrighteck.com](https://www.wrighteck.com)
-- Appium tests for Android written against  [API Demos](https://github.com/appium/android-apidemos)  
-- Appium tests for iOS written against [UI Catalog](https://github.com/appium/ios-uicatalog)  
-- Automation examples applicable to web and mobile views
 
+This section contains automation testing examples for web and mobile applications using Playwright, Appium, and TypeScript.
+
+Includes:
+- Playwright web automation examples
+- Appium mobile automation examples
+- TypeScript-based test scripts
+- Android and iOS automation testing workflows
+- Cross-platform automation concepts
+
+#### Sample Projects
+- Playwright tests written against [WrighTeck.com](https://www.wrighteck.com)
+- Appium tests for Android written against [API Demos](https://github.com/appium/android-apidemos)
+- Appium tests for iOS written against [UI Catalog](https://github.com/appium/ios-uicatalog)
+  
 ### OTT & Mobile Platforms
 Located in [`/docs`](https://github.com/WrighTeck/software-testing-portfolio/tree/main/docs):
-- Platform-specific testing strategies
-- Device matrix examples for streaming platforms (Roku, Fire TV, AndroidTV, etc.)
-- Ad validation and playback test flows
-- Test Automation User Guide
-- Manual Testing User Guide
-- Sample bug report formats
 
-### Test Management
+This section showcases testing approaches and validation strategies for OTT, streaming, mobile, and connected TV platforms.
+
+Includes:
+- Platform-specific testing strategies
+- Device matrix examples
+- Streaming playback validation
+- Ad insertion and ad playback testing
+- Navigation and user experience testing
+- OTT test scenarios across Roku, Fire TV, Apple TV, Android TV, Samsung, LG, and Vizio devices
+
+### API-Tests
 Located in /[`api-tests`](https://github.com/WrighTeck/software-testing-portfolio/tree/main/api-tests):
 - Custom API built using Wix Velo HTTP functions
 - GET and POST endpoints for WrighTeck.com
@@ -44,7 +65,22 @@ Located in /[`api-tests`](https://github.com/WrighTeck/software-testing-portfoli
 - Backend data verification using Wix CMS (Contacts collection)
 - Modular backend structure with separated endpoint logic
 
-### Documentation
+### Test Management & Collaboration
+Located in [`/test-management`](https://github.com/WrighTeck/software-testing-portfolio/tree/main/test-management):
+
+Examples of test management, defect tracking, documentation, and Agile collaboration processes used throughout the software testing lifecycle.
+
+Includes:
+- JIRA defect management workflows
+- Xray test management examples
+- TestRail test case management
+- Qmetry test planning and execution
+- Bugzilla defect tracking examples
+- Confluence QA documentation and collaboration
+- Agile methodologies and team collaboration processes
+
+
+### Technical Skills
 Located in [`docs/technical-skills`](./docs/technical-skills) <br>
 Explore how I apply key QA and technical writing skills across real-world projects:
 - [AI, Automation & API Tools](./docs/technical-skills/ai-automation-api.md) 
@@ -61,6 +97,22 @@ Explore how I apply key QA and technical writing skills across real-world projec
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
+
+### Technical Documentation
+Located in [`/documentation`](./documentation)
+
+Examples of QA and technical documentation created to support software testing, user education, and team collaboration.
+
+Includes:
+- Manual Testing Guide
+- Test Automation Guide
+- API Testing Guide
+- QA Documentation Guide
+- Test Plan Templates
+- Test Strategy Templates
+- User Guide Samples
+- API Documentation
+- Knowledge Base Articles
 
 ## Technical Skills Outline
 
