@@ -1,1 +1,3 @@
+# AI, Automation Tests & Technical Tools
+
 This section demonstrates the tools and technologies used throughout the software testing lifecycle, including test automation, API validation, debugging, monitoring, data analysis, and AI-assisted testing workflows. Featured tools include Appium, WebdriverIO, TypeScript, TestNG, BrowserStack, Postman, Datadog, Charles Proxy, AWS CloudWatch, Chrome DevTools, Android Studio, Xcode, SQL, Power BI, Microsoft Copilot, and GitHub Copilot.
