@@ -1,5 +1,5 @@
 # AI, Automation & API Tools
-
+![AI, Automation & API Tools](./AI-Automation-API.jpg)
 ## 🧠 AI-Enhanced Testing & Quality Engineering
 
 I leverage AI-powered tools to improve testing efficiency, accelerate documentation, and support software quality activities throughout the Software Development Life Cycle (SDLC). AI helps streamline repetitive tasks, improve test coverage, and enhance productivity while maintaining human-driven validation and decision-making.
