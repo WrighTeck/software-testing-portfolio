@@ -1,48 +1,83 @@
-### AI, Automation & API Tools
+# AI, Automation & API Tools
 
-## 🧠 AI in QA Workflows
-I actively use AI tools like ChatGPT and Claude to support my QA and documentation tasks. Typical use cases include:
+## 🧠 AI-Enhanced Testing & Quality Engineering
 
-- Generating test cases and edge scenarios
-- Writing bug report summaries
-- Reviewing error messages and logs
-- Create test scripts for Web & Mobile Automation
-- Drafting user-facing test documentation
+I leverage AI-powered tools to improve testing efficiency, accelerate documentation, and support software quality activities throughout the Software Development Life Cycle (SDLC). AI helps streamline repetitive tasks, improve test coverage, and enhance productivity while maintaining human-driven validation and decision-making.
 
-**Tools Used:** Generative AI, Prompt Engineering (ChatGPT)
+### How I Use AI in QA
 
-**Example Prompts:**
+- Generate functional, regression, exploratory, and edge-case test scenarios
+- Analyze requirements, user stories, and acceptance criteria
+- Draft and improve bug reports and defect summaries
+- Review logs, error messages, and troubleshooting data
+- Assist with automation script development and code reviews
+- Generate SQL queries for data validation and testing activities
+- Create technical documentation, user guides, and knowledge base articles
+- Support risk analysis and test coverage reviews
+- Accelerate research, root cause analysis, and debugging efforts
+- Improve test coverage through AI-generated testing ideas
+- Support QA planning and test strategy development
+
+### AI Tools & Technologies
+
+- ChatGPT
+- Claude
+- GitHub Copilot
+- Microsoft Copilot
+- Prompt Engineering
+- AI-Enhanced Quality Engineering
+- AI-Assisted Technical Documentation
+- AI-Assisted Test Automation Development
+
+### Example Prompt
+
 ```text
-"Write edge case test scenarios for a password reset feature that includes CAPTCHA and email verification."
+Generate positive, negative, and edge-case test scenarios for a password reset feature that includes CAPTCHA validation, email verification, account lockout protection, and session timeout handling.
 ```
-```
-"Summarize this bug report for a mobile login failure into 3 bullet points for a QA status meeting:
-- App version: 5.2.1 (Android)
-- Steps: Open app > Tap Login > Enter valid email/password > Tap Submit
-- Expected: Login success
-- Actual: App crashes with error code 500
-- Notes: Issue replicates only on Android 14 devices"
-```
-```
-"Generate functional and negative test cases for a 'Change Password' feature with the following rules:
-- Current password is required
-- New password must be 8+ characters with at least one symbol
-- Confirmation field must match new password
-- Lock the account after 5 failed attempts"
-```
+
+### Example Use Cases
+
+- Test case generation
+- Test data creation
+- Requirements analysis
+- Documentation support
+- Automation script assistance
+- Defect triage and reporting
+
+### Business Impact
+
+- Accelerate test design and documentation activities
+- Improve testing efficiency and coverage
+- Reduce time spent on repetitive QA tasks
+- Support faster defect analysis and troubleshooting
+- Enhance collaboration between QA, Development, and Product teams
+
 ---
 
-## 🤖 Automation Tools
-My automation testing workflow includes writing scripts in **TypeScript** using tools such as:
+## 🤖 Test Automation
 
-- **Appium** for Android & iOS mobile UI testing
-- **Playwright** for browser automation
-- **WebDriverIO** for hybrid web/mobile testing
-- **Cucumber BDD** for writing automated test scripts.
+I develop and maintain automated test scripts for web and mobile applications using TypeScript-based automation frameworks.
 
-**Tech Stacks Used:** Appium, Appium Inspector, WebdriverIO, Cucumber BDD
+### Automation Technologies
 
-**Example from an Appium test (Android API Demos):**
+- Appium
+- Appium Inspector
+- WebDriverIO
+- Playwright
+- Cucumber BDD
+- TypeScript
+
+### Areas of Automation
+
+- Mobile application testing (Android & iOS)
+- Web application testing
+- Functional validation
+- Regression testing
+- Cross-platform test execution
+- Data-driven testing
+
+### Sample Appium Code
+
 ```ts
 const webviewOption = await $('android=new UiSelector().text("Views/WebView")');
 await expect(webviewOption).toBeDisplayed();
@@ -50,65 +85,92 @@ await expect(webviewOption).toBeDisplayed();
 
 ---
 
-##  API Testing (Self Taught)
-Although I haven’t used Postman professionally, I’ve taught myself through LinkedIn Learning and personal projects.
+## 🔌 API Testing & Validation
 
-**Tools Used:**
-- Postman for sending and validating REST API requests
-- Swagger UI for understanding and testing documented endpoints
+I perform API testing to validate service functionality, request and response behavior, and data integrity across REST-based applications.
 
-**Tools Used:** Postman
+### Tools Used
 
-**What I Practice:**
-- Testing `GET`, `POST`, `PUT`, `DELETE` methods
-- Checking status codes (200, 400, 404, etc.)
-- Validating JSON responses and headers
+- Postman
+- Swagger UI
+- JSON Validation
 
-**Sample API Test:**
+### API Testing Activities
+
+- GET, POST, PUT, DELETE request validation
+- Status code verification
+- Response body validation
+- Header validation
+- Error handling verification
+- Positive and negative testing
+- Request parameter validation
+
+### Sample API Validation
+
 ```http
 GET /api/products
-Expected: 200 OK
-Response: JSON with product list and metadata
+
+Expected Result:
+200 OK
+
+Response:
+JSON payload containing product data and metadata
+```
+
+### Portfolio Example
+
+- Custom API developed using Wix Velo HTTP Functions
+- GET and POST endpoint validation
+- Postman collections
+- Positive and negative API test cases
+- JSON request and response verification
+- Backend data validation using Wix CMS collections
+
+---
+
+## 🌿 Version Control & Collaboration
+
+I use Git-based workflows to manage test automation projects and collaborate with development teams.
+
+### Tools
+
+- Git
+- GitHub
+- Bitbucket
+
+### Activities
+
+- Clone repositories
+- Create feature branches
+- Commit and push code changes
+- Open and review pull requests
+- Merge approved changes
+- Resolve merge conflicts
+- Maintain version-controlled test assets
+
+### Example Workflow
+
+```bash
+git checkout -b feature/add-new-tests
+git add .
+git commit -m "Added login automation coverage"
+git push origin feature/add-new-tests
 ```
 
 ---
 
-## Version Control & Collaboration
-I manage my TypeScript-based test automation projects using Git and Bitbucket.
+## ☁️ Test Infrastructure & Cross-Platform Testing
 
-**Common Git Workflow:**
-```bash
-# Clone the repo from Bitbucket
-git clone https://bitbucket.org/my-qa-repo/project-name.git
+I utilize cloud-based testing platforms to execute tests across multiple browsers, devices, and operating systems.
 
-# Create a feature branch
-git checkout -b feature/add-new-tests
+### Tools
 
-# Add changes (e.g., new test files)
-git add tests/sampleTest.ts
+- BrowserStack
 
-# Commit changes with a message
-git commit -m "Added new test cases for login and signup"
+### Activities
 
-# Push the branch to Bitbucket
-git push origin feature/add-new-tests
-```
-
-**Pulling Latest Changes:**
-```bash
-# Switch to the main branch
-git checkout main
-
-# Pull updates from the remote repo
-git pull origin main
-```
-
-**Other Tasks:**
-- Opened pull requests for test reviews
-- Merged branches after approval
-- Resolved simple merge conflicts when syncing branches
-
-## Test Infrastructure
-When applicable, I use **BrowserStack** to execute cross-browser or device-based tests for iOS testing.
-
-**Skills Used:** BrowserStack
+- Cross-browser testing
+- Mobile device testing
+- Responsive testing
+- Remote test execution
+- Platform compatibility validation
