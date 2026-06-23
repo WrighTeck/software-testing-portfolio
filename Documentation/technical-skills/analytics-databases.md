@@ -1,33 +1,106 @@
-# Analytics & Databases
+# Analytics, Monitoring & Database Skills
 
-## Analytics Tools
+## Overview
 
-### JW Analytics
-- Used JW Analytics dashboards to track OTT app performance, user behavior, engagement metrics, and error logs.
-- Analyzed playback issues, session data, and streaming quality to identify patterns and drive QA test coverage.
-- Correlated app usage metrics with regression test results to spot anomalies and flag potential bugs early.
-
-### Google Analytics
-- Integrated GA to monitor user interaction across web platforms.
-- Reviewed event tracking, session duration, and bounce rates to evaluate streaming functionality.
-- Used behavioral data to prioritize test scenarios for high-traffic areas and optimize QA resources.
+Throughout my QA career, I have used analytics platforms, monitoring tools, reporting solutions, and databases to validate application behavior, investigate defects, verify business workflows, and support data-driven testing across OTT, mobile, web, SaaS, Salesforce, SAP, and enterprise applications.
 
 ---
 
-##  Databases
+## Analytics & Monitoring
 
-### Oracle (Academic) (PL/SQL)
-- Learned Oracle and PL/SQL as part of college coursework.
-- Wrote PL/SQL queries for data verification during functional and integration testing exercises.
-- Validated backend transactions and confirmed data accuracy in simulated client-side reports.
-- Performed joins, subqueries, and data extraction for practice scenarios and test case development.
+### Google Analytics
 
-### Microsoft SQL Server (MS SQL)
-- Create and query data in SQL for backend validation and frontend consistency.
-- Queried production and test environments to verify database states and ensure data flow integrity across systems.
-- Used SQL queries for log analysis, test data setup, and validation of backend data reflected accurately on the UI.
-- Supported root cause analysis efforts by tracing defects to invalid, missing, or mismatched database records.
+- Monitor user activity and application behavior
+- Validate tracking implementation
+- Review engagement and usage metrics
+- Support troubleshooting efforts during testing
 
-### Relational Database Management Systems (RDBMS)
-- Experienced working with relational databases to support data-driven testing efforts.
-- Applied database testing as part of end-to-end scenarios on Desktop environment.
+### JW Analytics
+
+- Monitor Live TV and Video-On-Demand (VOD) streaming activity
+- Validate video playback events and streaming metrics
+- Investigate video-related errors and playback issues
+- Verify content delivery and streaming performance
+- Support troubleshooting during OTT platform testing
+
+### Datadog
+
+- Review logs and application metrics
+- Investigate backend issues
+- Support root cause analysis
+- Validate system behavior during testing
+
+### Amazon CloudWatch
+
+- Monitor application logs
+- Investigate backend services and failures
+- Support defect investigation and troubleshooting
+
+### Power BI
+
+- Validate dashboards and reports
+- Verify business metrics and calculations
+- Compare report data against source systems
+- Support User Acceptance Testing (UAT)
+
+---
+
+## Database Technologies
+
+### SQL
+
+I used SQL to validate backend data, verify workflows, investigate issues, and support application testing.
+
+**Common Activities**
+
+- Query application databases
+- Verify record creation and updates
+- Validate backend processing
+- Investigate data discrepancies
+- Support defect analysis
+
+### Database Platforms
+
+- Amazon Redshift
+- PostgreSQL
+- SQL Server
+
+---
+
+## Enterprise Application Testing
+
+### SAP
+
+- Validate business workflows
+- Verify transaction processing
+- Confirm data accuracy
+- Support regression and UAT testing
+
+### Salesforce
+
+- Validate business processes and workflows
+- Verify record creation and updates
+- Test automation functionality
+- Validate reporting features
+
+---
+
+## Skills Demonstrated
+
+- Analytics Validation
+- Streaming Analytics Monitoring
+- Video Playback Analysis
+- Data Validation
+- Backend Testing
+- SQL Query Development
+- Reporting Verification
+- Log Analysis
+- Root Cause Analysis
+- Business Process Testing
+- Enterprise Application Testing
+
+---
+
+## Real-World Experience
+
+Experience using analytics platforms, monitoring tools, databases, and reporting solutions to validate streaming applications, investigate production issues, verify enterprise workflows, and support software quality across OTT, mobile, web, SaaS, Salesforce, SAP, and enterprise environments.
