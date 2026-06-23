@@ -51,7 +51,7 @@ Throughout my QA career, I have used analytics platforms, monitoring tools, repo
 
 I used SQL to validate backend data, verify workflows, investigate issues, and support application testing.
 
-**Common Activities**
+**Tasks**
 
 - Query application databases
 - Verify record creation and updates
@@ -85,8 +85,7 @@ I used SQL to validate backend data, verify workflows, investigate issues, and s
 
 ---
 
-## Skills Demonstrated
-
+## Skills 
 - Analytics Validation
 - Streaming Analytics Monitoring
 - Video Playback Analysis
