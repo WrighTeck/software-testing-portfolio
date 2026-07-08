@@ -1,56 +1,91 @@
-# Devices & Platforms – Testing Skills
+# 📺 Devices & Platforms
 
-I have hands-on experience testing across a diverse devices and platforms, with a strong focus on mobile, web, OTT, desktop, and voice-assisted technologies. My testing workflows ensure consistent user experience, functionality, and performance across platforms.
-
----
-
-## Platforms & Devices Tested
-
-### OTT & Smart TV Platforms
-- **Fire TV**
-- **Android TV**
-- **tvOS (Apple TV)**
-- **Roku**
-- **Samsung Tizen TV**
-- **LG webOS TV**
-- **Vizio SmartCast**
-
-### Mobile & Tablet Devices
-- **Android (Phones & Tablets)**
-- **iOS (iPhone & iPad)**
-
-### Desktop & Operating Systems
-- **Web (Responsive, Desktop & Mobile Views)**
-- **Windows Desktop Applications**
-- **Windows OS (All versions tested from user standpoint)**
-- **macOS**
-- **Linux (Ubuntu)**
-
-### Smart Speakers & Voice-Activated Devices
-- **Google Home Nest Hub &  Mini Speakers**
-- **Amazon Alexa ~ Echo, Spot, Pop, Show Devices**
+My OTT and streaming experience includes testing applications across Connected TV (CTV), mobile, and voice-enabled platforms. This experience includes validating Live TV, Video-on-Demand (VOD), advertising, playback functionality, remote navigation, and cross-platform user experiences across multiple device ecosystems.
 
 ---
 
-## Types of Testing Performed
-- Cross-Device & Cross-Platform Validation
-- Functional Testing
-- UI/UX Testing & Responsiveness
-- Media Playback, Audio/Video Sync, Ad Validation (for OTT)
-- Installation, Navigation, Settings & Permissions
-- Voice Command Recognition (for Smart Speakers)
-- Regression Testing Across OS Versions
+## Streaming & Connected TV Devices
+
+- Apple TV (tvOS)
+- Amazon Fire TV
+- Roku
+- Android TV
+- Samsung Smart TV (Tizen)
+- LG Smart TV (webOS)
+- Vizio Smart TV (SmartCast)
+- Chromecast
 
 ---
 
-## Tooling & Test Support
-- **Device Labs:** Physical devices, emulators/simulators, cloud-based test environments
-- **Test Tools:** Appium, BrowserStack, WebdriverIO, Android Studio, Xcode, Postman
-- **QA Assets:** Test cases, bug reports, compatibility matrix, device coverage documentation
+## Mobile Platforms
+
+- iPhone and iPad (iOS)
+- Android Phones and Tablets
 
 ---
 
-## ✅ Outcome
-- Ensured reliable performance across a wide range of end-user environments.
-- Reduced platform-specific defects pre-release.
-- Verified accessibility and responsiveness across modern devices and legacy systems.
+## Voice-Enabled Devices
+
+- Amazon Alexa Devices
+- Google Smart Speakers
+
+---
+
+## OTT Features Tested
+
+- Live TV Streaming
+- Video-On-Demand (VOD)
+- Advertising and Ad Playback
+- User Authentication and Account Management
+- Playback Controls
+- Search Functionality
+- Remote Navigation
+- Device Activation and Pairing
+- Cross-Platform User Experiences
+- Performance and Stability Testing
+- Application Installation and Upgrades
+- Network Connectivity Validation
+
+---
+
+## OTT Testing & Debugging Tools
+
+The following tools have been used to investigate application crashes, troubleshoot streaming issues, validate network activity, analyze logs, and identify root causes across multiple device ecosystems.
+
+- Android Studio
+- Android Debug Bridge (ADB)
+- Xcode
+- Charles Proxy
+- Browser Developer Tools (DevTools)
+- Wireshark
+- Command Line Interface (CLI) Tools
+- Datadog
+- Amazon CloudWatch
+- BrowserStack
+
+---
+
+## Platform-Specific Experience
+
+### Samsung Smart TV (Tizen)
+
+- Tizen Studio
+- Tizen Device Manager
+- Tizen Web Inspector
+- Samsung Smart TV Emulator
+- Samsung Developer Mode
+
+### Vizio Smart TV (SmartCast)
+
+- Device Whitelisting
+- IP-Based Application Deployment
+
+### Roku
+
+- Roku Developer Mode
+
+---
+
+## Testing Approach
+
+My OTT testing experience has primarily involved working with physical devices to validate real-world streaming experiences across multiple platforms and device ecosystems. I have collaborated closely with developers, QA engineers, and product teams to investigate streaming defects, troubleshoot application issues, and improve application stability and overall user experience.
