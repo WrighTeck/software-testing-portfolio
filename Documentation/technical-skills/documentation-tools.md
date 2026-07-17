@@ -170,12 +170,19 @@ Documentation plays a critical role in software quality by helping teams align o
 # Why Documentation Matters in QA
 
 Effective documentation helps teams:
+
 ✅ Improve communication and collaboration
+
 ✅ Preserve knowledge and reduce dependency on individuals
+
 ✅ Accelerate onboarding and training
+
 ✅ Improve testing consistency and repeatability
+
 ✅ Support compliance and audit requirements
+
 ✅ Reduce defects caused by misunderstandings
+
 ✅ Deliver higher-quality software
 
 ---
